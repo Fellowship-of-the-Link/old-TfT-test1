@@ -1,4 +1,6 @@
-Here are a few thoughts on the TfT Map, riffing off Friday's conversation.
+*some notes from Mattermost a couple of weeks ago, to be replaced when the [[project plan]] is final*
+
+**Here are a few thoughts on the TfT Map, riffing off Friday's conversation.**
 
 # Capture the stories as well as the scores
 
