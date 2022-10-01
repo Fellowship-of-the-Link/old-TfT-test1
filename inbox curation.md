@@ -1,0 +1,15 @@
+#technique: [[inbox curation]]
+# What it is
+Inbox curation is a technique for reducing today's "information firehose" of content coming at you 24/7 down to a garden hose of the best, most interesting and relevant content, ensuring you spend 90% of your time on the best 10% of the content reaching your various inboxes from these Priority Sources.
+
+Apply inbox curation to your most important sources of information - eg
+* if you subscribe to too many enewsletters, use auto-label to put the most interesting ones in a dedicated #highlight folder
+* if you spend too much time scrolling on #twitter, set up a [[twitter list]] of theaccounts which tend to share the most interesting content
+
+Make sure you have a recurring task or appointment to actually look at these Priority Source - see #GTD
+
+Contributed by [[Mathew Lowry]]
+
+# Who uses it, how
+
+[[Mathew Lowry]]: *I use  [[inbox curation]] to identify high-priority sources of content: in #gmail I auto-label high-priority #enewsletter, and I maintain a [[twitter list]].*
