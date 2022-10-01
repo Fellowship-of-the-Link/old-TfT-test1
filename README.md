@@ -4,7 +4,7 @@
 
 Welcome to the home page of this wiki. Edit to make it your own! You can delete all the sample content on this page, and replace it with yours.
 
-Use Markdown, or just type text -- either way works.
+Use Markdown, or just type text -- either way works. Cool.
 
 Use double square brackets around words to make links to other pages in this wiki.
 
