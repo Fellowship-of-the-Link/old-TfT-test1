@@ -1,17 +1,19 @@
-# Project plan
+# Outline Project plan - v1
 This is one of several plans. It presupposed that we can actually get the site working before we show it to anyone. This is therefore not a good plan if the "preparation" phase is too onerous - see [[alternative project plan]].
 
-## Preparation
-* Get it working, so anyone can see how the actual site would look
-* Test it by adding our profiles, tools and techniques
-* Fine-tune, create [[known issues]]
-* create Documentation: v1 (understandable by FoTL/OGM community)
+
+## Build
+* Create a first set of scoring dimensions, which will mean aligning various tables developed by various people
+* Get the site working, so anyone can see how the actual may could look
+	* Test it by adding our profiles, tools and techniques
+	* Fine-tune, create [[known issues]] file
+* Create Documentation: v1 (understandable by FoTL/OGM community), for...
 
 ## Launch 1: FoTL/OGM
 * post an invite to Town Square & elsewhere on Mattermost
 * assess interest
-* support early adopters
-* refine in light of feedback
+* support early adopters to contribute their content
+* refine in light of experience and feedback to the
 	* actual site
 	* documentation, creating v2
 
