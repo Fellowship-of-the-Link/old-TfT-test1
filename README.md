@@ -35,3 +35,8 @@ The 2nd blog post ([[2. Mapping the thinking tool landscape]]) has a visual show
 And in every file, of course, each mention of any tool or technique links to the zettelkasten overview for that tool or technique, where users get both 
 * a description of the tool / technique
 * links to explore how different people use it, and the scores they gave to it
+
+## Next steps
+Read and comment on:
+* [[Project plan]]
+* Blog posts (see above)
