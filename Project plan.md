@@ -4,7 +4,7 @@ This is one of several plans. It presupposed that we can actually get the site w
 
 ## Build
 * Create a first set of scoring dimensions, which will mean aligning various tables developed by various people
-* Get the site working, so anyone can see how the actual may could look
+* Get the site working, so anyone can see how the actual map could look
 	* Test it by adding our profiles, tools and techniques
 	* Fine-tune, create [[known issues]] file
 * Create Documentation: v1 (understandable by FoTL/OGM community), for...
