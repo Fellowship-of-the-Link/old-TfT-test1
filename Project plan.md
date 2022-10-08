@@ -1,5 +1,5 @@
 # Outline Project plan - v1
-This is one of several plans. It presupposed that we can actually get the site working before we show it to anyone. This is therefore not a good plan if the "preparation" phase is too onerous - see [[alternative project plan]].
+This is one of several possible plans. It presupposed that we can actually get the site working before we show it to anyone. This is therefore not a good plan if the "preparation" phase is too onerous - see [[alternative project plan]].
 
 
 ## Build
