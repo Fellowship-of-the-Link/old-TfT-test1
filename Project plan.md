@@ -33,7 +33,11 @@ Add a system allowing non Obsidian / GitHub users to
 * provide scores
 
 ### Promotion
-Publish blog posts
+Publish blog posts. Currently:
+	* [[1. Building collective intelligence from social knowledge graphs]]
+	* [[2. Mapping the thinking tool landscape]]
+	* [[3. Why you probably won’t use that thinking tool the same way as anyone else]]
+
 Get all current contributors to help promote it
 Assess interest
 

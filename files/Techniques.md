@@ -1,0 +1,1 @@
+a menu of all technique pages
