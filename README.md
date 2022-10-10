@@ -13,7 +13,7 @@ Navigation:
 	* [[Known issues]] 
 	* [[ToDos]]
 
-Body:
+Body (see [first sketch]([[homepagesketch1.png]])):
 ## Scorecard: N tools 
 spidergraph of N tools (d3.js?), grabbing data live from datastore (GDoc?)
 

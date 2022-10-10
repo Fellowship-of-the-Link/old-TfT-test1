@@ -2,12 +2,11 @@
 **This pilot, spawned by [[Fellowship of the Link]] discussions, is creating a partially decentralised map of thinking tools to demonstrate decentralised solutions to collective intelligence.** 
 
 ## Introduction
-As explained in one of the blog posts planned (and currently open for comments: [[1. Building collective intelligence from social knowledge graphs]]), this is hopefully the first in "* a series of pilot projects where:
-
+As explained in one of the blog posts planned (and currently open for comments: [[1. Building collective intelligence from social knowledge graphs]]), this is hopefully the first in "a series of pilot projects where:
 -   the tools we have today are used to link ideas in a specific domain (and the people behind them) together in a decentralised way
 -   in the process demonstrating decentralised collective intelligence
 -   we learn from the experience to create a new iteration of slightly better tools as a result, along with a slightly bigger audience,
--   rinse, repeat." *
+-   rinse, repeat."
 
 This particular pilot project is starting with massive.wiki. Future projects might try other solutions, or ideally expand this one to work with them.
 
