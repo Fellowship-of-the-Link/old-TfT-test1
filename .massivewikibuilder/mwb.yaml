@@ -11,4 +11,4 @@ repo: '<a href="https://github.com/Fellowship-of-the-Link/TfT-test1">GitHub/FotL
 license: '<a href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>'
 
 # the markdown page which will be handled as a sidebar page
-sidebar: Sidebar.md
+sidebar: sidebar.md
