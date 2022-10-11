@@ -1,3 +1,8 @@
+*version control*: 
+* this is version 0
+* required for next version: confirm architecture, rewrite into multiple files under 'Project'
+---
+
 # About this project
 **This pilot, spawned by [[Fellowship of the Link]] discussions, is creating a partially decentralised map of thinking tools to demonstrate decentralised solutions to collective intelligence.** 
 

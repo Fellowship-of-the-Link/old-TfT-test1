@@ -1,1 +1,0 @@
-![[homepagesketch1.png]]

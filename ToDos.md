@@ -10,13 +10,27 @@ Read and comment on the ideas to date:
 * [[Project plan]]
 * site structure, home page ideas: see [[README]] (is a wireframe needed?)
 
+Validate structure of site and home page or specify what needs to change.  
 
 ### ML
 In no particular order (yet):
-* align various inputs (Bill Setz, Bentley/CDL, etc.) for spidergraph dimensions
-* draft first versions of of [[How to use]], [[How to contribute]]
+* spidergraph dimension: align various inputs (Bill Setz, Bentley/CDL, etc.) for s
+* draft first versions of of [[How to use]], [[How to contribute]] (DONE)
 
 ### Together
-flesh out [[Project plan]]
+* flesh out [[Project plan]]
 
+## Pending
+When site & home page structure/approach validated
+* finalise content
+* tool, technique & personal profile pge templates
+	* template downloads
+* [[Tools]], [[Techniques]] & [[Users]] menus
+* home page 
+	* spidergraph visualisation
+	* user input form
+* massive wiki user manual
+
+
+## Someday
 
