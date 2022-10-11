@@ -22,9 +22,13 @@ The easiest is to simply download this template ([[personal profile template]]),
 Please follow the template.
 You can edit a markdown file using any text editor (Notepad, Obsidian, etc.)
 
-### Submit a new tool or technique page as a .md file
+### Submit/Improve tool or technique pages
 If your personal profile references a tool or technique not already present in the map, download the appropriate  template ([[tool template]], [[tool template]]), edit it locally and submit it (see above).
 
+Would you like to improve an existing tool or technique page? Either become a massive.wiki contributor (below - recommended) or ??
+* use the "download this page in markdown format"
+* edit it
+* submit it (see above).
 
 ## Become a massive.wiki contributor
 This site is a massive.wiki, which means you can:
