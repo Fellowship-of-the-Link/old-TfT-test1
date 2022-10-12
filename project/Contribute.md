@@ -1,7 +1,10 @@
 *version control*: 
+
 * this is version 0
 * required for next version: confirm architecture
+
 ---
+
 # How to contribute
 **There are several ways to contribute to the map.**
 
