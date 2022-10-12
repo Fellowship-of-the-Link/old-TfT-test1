@@ -2,9 +2,9 @@
 * [[Users]] 
 * [[Tools]]
 * [[Techniques]]
-* Project: to [[About]]
+* Project
+	* [[Use]]
+	* [[Contribute]]
 	* [[About]]
-	* [[How to use]]
-	* [[How to contribute]]
 	* [[Known issues]] 
 	* [[ToDos]]

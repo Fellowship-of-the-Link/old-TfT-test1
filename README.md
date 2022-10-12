@@ -15,14 +15,16 @@ Rate the importance of the following aspects of your ideal thinking tool [[More 
 
 *Form:*
 
-* DimensionName: - user input (1-5)
-* DimensionName: - user input (1-5)
-* DimensionName: - user input (1-5)
-* DimensionName: - user input (1-5)
-* DimensionName: - user input (1-5)
-* DimensionName: - user input (1-5)
+* DimensionName: - *user input (1-5)*
+* DimensionName: - *user input (1-5)*
+* DimensionName: - *user input (1-5)*
+* DimensionName: - *user input (1-5)*
+* DimensionName: - *user input (1-5)*
+* DimensionName: - *user input (1-5)*
+* DimensionName: - *user input (1-5)*
 
-*button*: ENTER (adds a new line to spidergraph, stored & displayed locally: "ME")
+
+*button*: ENTER (adds a new line of data to spidergraph, stored & displayed locally: "ME")
 
 
 ## Most popular Tools
@@ -42,6 +44,6 @@ more *(to Users)*
 
 ## Get help and Join in
 
-[[About]]
-[[How to use]]
-[[How to contribute]]
+* [[About]]
+* [[Use]]
+* [[Contribute]]

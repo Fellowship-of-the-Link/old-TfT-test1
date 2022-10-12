@@ -16,7 +16,7 @@ Validate structure of site and home page or specify what needs to change.
 ### ML
 In no particular order (yet):
 * spidergraph dimension: align various inputs (Bill Setz, Bentley/CDL, etc.) for s
-* [x] draft first versions of of [[How to use]], [[How to contribute]] (DONE)
+* [x] draft first versions of of [[Use]], [[Contribute]] (DONE)
 
 ### Together
 * flesh out [[Project plan]]
