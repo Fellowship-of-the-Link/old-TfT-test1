@@ -5,7 +5,7 @@
 ---
 
 # About this project
-**This pilot, spawned by [[Fellowship of the Link]] discussions, is creating a partially decentralised map of thinking tools to demonstrate decentralised solutions to collective intelligence.** 
+**This pilot, spawned by [Fellowship of the Link discussions](https://chat.collectivesensecommons.org/agora/pl/whw9kgizb7nifqbe6znu5cgrrr), is creating a partially decentralised map of thinking tools to demonstrate decentralised solutions to collective intelligence.** 
 
 ## Introduction
 As explained in one of the planned blog posts  ([[1. Building collective intelligence from social knowledge graphs]]), this is hopefully the first in "a series of pilot projects where:
