@@ -1,4 +1,4 @@
-* [Home]([[README]])
+* [Home](README) 
 * [[Users]] 
 * [[Tools]]
 * [[Techniques]]
