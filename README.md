@@ -6,6 +6,7 @@
 # Mapping the Tools for Thought Landscape
 
 Navigation:
+
 * Home
 * [[Users]] 
 * [[Tools]]
@@ -17,13 +18,18 @@ Navigation:
 	* [[Known issues]] 
 	* [[ToDos]]
 
-Body (see [first sketch](homepagesketch1)):
+
+*Body*
+
 ## Scorecard: N tools 
+
 spidergraph of N tools (d3.js?), grabbing / presenting local copy of data from datastore (GDoc?)
 
 ## Find your ideal tool(s)
+
 Rate the importance of the following aspects of your ideal thinking tool [[More on those dimensions]].
-Form:
+
+*Form:*
 * DimensionName: - user input (1-5)
 * DimensionName: - user input (1-5)
 * DimensionName: - user input (1-5)
@@ -31,22 +37,27 @@ Form:
 * DimensionName: - user input (1-5)
 * DimensionName: - user input (1-5)
 
-button: ENTER (adds a new line to spidergraph, stored & displayed locally: "ME")
+*button*: ENTER (adds a new line to spidergraph, stored & displayed locally: "ME")
 
 ## Most popular Tools
-Table:
+
+*Table:*
+
 ### Tool    Nr. Votes
 
 
 ## Latest Users
-List
-[[Mathew Lowry]]
-[[Another Person Profile]]
-Username
-Username
-Username
 
-more (to Users)
+* [[Mathew Lowry]]
+* [[Another Person Profile]]
+* Username
+* Username
+* Username
 
-## Join in
+more *(to Users)*
+
+## Get help and Join in
+
+[[About]]
+[[How to use]]
 [[How to contribute]]
