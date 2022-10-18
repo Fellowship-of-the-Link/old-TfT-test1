@@ -15,11 +15,12 @@ Read and comment on the ideas to date:
 
 ### ML
 In no particular order (yet):
-* [ ] spidergraph dimension: align various inputs (Bill Setz, Bentley/CDL, etc.) for s
+* [ ] spidergraph dimensions: align various inputs (Bill Setz, Bentley/CDL, etc.) 
 * [x] draft first versions of of [[temp/Use]], [[Contribute]] (DONE)
 
 ### Together
-* flesh out [[Project plan]]
+* [ ] flesh out [[Project plan]]
+* [ ] documentation v1
 
 ## Pending
 When site & home page structure/approach validated

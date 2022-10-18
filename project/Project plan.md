@@ -10,6 +10,7 @@ This is one of several possible plans. It presupposed that we can actually get t
 	* population of tool and technique files with excerpts from personal profiles 
 		*  test by adding our profiles
 		* edit referenced tool and technique pages
+	* homepage (see [[homepage spidergraph proposal]])
 	* create [[known issues]] file
 * Create Documentation: v1 (understandable by FoTL/OGM community), for...
 
