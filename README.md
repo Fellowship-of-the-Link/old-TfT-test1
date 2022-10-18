@@ -45,6 +45,6 @@ more *(to Users)*
 
 ## Get help and Join in
 
-* [[About]]
+* [[project/About]]
 * [[Use]]
 * [[Contribute]]

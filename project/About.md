@@ -1,6 +1,6 @@
 *version control*: 
 
-* this is version 0 (see [[Project plan]])
+* this is version 0 (see [[project/Project plan]])
 * required for next version: confirm architecture, rewrite as needed
 ---
 
@@ -8,16 +8,16 @@
 **This pilot, spawned by [Fellowship of the Link discussions](https://chat.collectivesensecommons.org/agora/pl/whw9kgizb7nifqbe6znu5cgrrr), is creating a partially decentralised map of thinking tools to demonstrate decentralised solutions to collective intelligence.** 
 
 ## Introduction
-As explained in one of the planned blog posts  ([[1. Building collective intelligence from social knowledge graphs]]), this is hopefully the first in "a series of pilot projects where:
+As explained in one of the planned blog posts  ([[1. Building collective intelligence from social knowledge graphs]]), this is hopefully the first in *"a series of pilot projects where:*
 
-- "the tools we have today are used to link ideas in a specific domain (and the people behind them) together in a decentralised way
--  in the process demonstrating decentralised collective intelligence
--  we learn from the experience to create a new iteration of slightly better tools as a result, along with a slightly bigger audience,
--  rinse, repeat."
+- *the tools we have today are used to link ideas in a specific domain (and the people behind them) together in a decentralised way
+- *in the process demonstrating decentralised collective intelligence*
+- *we learn from the experience to create a new iteration of slightly better tools as a result, along with a slightly bigger audience,*
+-  *rinse, repeat.*"
 
 This particular pilot project is starting with massive.wiki. Future projects might try other solutions, or ideally expand this one to work with them.
 
-**Why thinking tools?** See the third blog post planned: [[3. Why you probably won’t use that thinking tool the same way as anyone else]].
+**Why thinking tools?** See the third planned blog post: [[3. Why you probably won’t use that thinking tool the same way as anyone else]].
 
 **And how will it work?** See the 2nd: [[2. Mapping the thinking tool landscape]], or simply click around.
 
