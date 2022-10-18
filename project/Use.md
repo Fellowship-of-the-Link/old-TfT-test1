@@ -8,7 +8,7 @@
 
 Here's how to tap that knowledge.
 
-## Describe your ideal thinking tool in 6?? numbers
+## Describe your ideal thinking tool in 7?? numbers
 Everyone contributing to this map rates the thinking tools they use using the following dimensions:
 
 * DimensionName: *explanation*
@@ -18,8 +18,6 @@ Everyone contributing to this map rates the thinking tools they use using the fo
 * DimensionName: *explanation*
 * DimensionName: *explanation*
 
-[[More on those dimensions]]
-
 The aggregated scores are displayed in the spidergraph on the [Home Page]([[README]]). So:
 
 * use the form alongside it to set your personal priorities
@@ -28,7 +26,7 @@ The aggregated scores are displayed in the spidergraph on the [Home Page]([[READ
 
 *example image*
 
-For example, this visitor prioritises DimensionName and DimensionName, so Tool1 and Tool2 should be on her shortlist.
+For example, this visitor prioritised *DimensionName* and *DimensionName*, so *Tool1* and *Tool2* should be on her shortlist.
 
 ## Explore your shortlisted tools... 
 All tools can be found via the [[Tools]] menu, which points to each tool's Tool Page.  This briefly describes the tool and includes brief excerpts from - and links to - the personal profiles of all users who use that tool.
