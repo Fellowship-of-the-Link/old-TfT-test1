@@ -16,19 +16,23 @@ This is one of several possible plans. It presupposed that we can actually get t
 * Create Documentation: v1 (understandable by FoTL/OGM community), for...
 
 ## Launch 1: FoTL/OGM
+
 * post an invite to Town Square & elsewhere on Mattermost
 * assess interest
 * support early adopters to contribute their content
 * refine site and documentation in light of experience and feedback, creating v2 of both
 
 ## Launch 2: Friends of friends
+
 * Widen the circle of invitees to other people we know interested in the field.
 * as above:  assess interest, support submitters. refine site, system & documentation
 
 We might do this several times before the site is ready for...
 
 ## Launch 3: Full launch
+
 ### Optional: 
+
 *This may be outside project scope, could come later.* 
 
 Add a system allowing non Obsidian / GitHub users to 
@@ -37,15 +41,20 @@ Add a system allowing non Obsidian / GitHub users to
 * provide scores
 
 ### Promotion
-Publish blog posts. Currently:
-	* [[1. Building collective intelligence from social knowledge graphs]]
-	* [[2. Mapping the thinking tool landscape]]
-	* [[3. Why you probably won’t use that thinking tool the same way as anyone else]]
 
-Get all current contributors to help promote it
-Assess interest
+Publish blog posts. Currently:
+
+* [[1. Building collective intelligence from social knowledge graphs]]
+* [[2. Mapping the thinking tool landscape]]
+* [[3. Why you probably won’t use that thinking tool the same way as anyone else]]
+
+Blog process includes:
+
+- Get all current contributors to help promote it
+- Assess interest
 
 ## Plan the next project
+
 We should have plenty of ideas...
 
 
