@@ -11,6 +11,7 @@ This is one of several possible plans. It presupposed that we can actually get t
 		*  test by adding our profiles
 		* edit referenced tool and technique pages
 	* homepage (see [[homepage spidergraph proposal]])
+	* [[404 page process]]
 	* create [[known issues]] file
 * Create Documentation: v1 (understandable by FoTL/OGM community), for...
 
