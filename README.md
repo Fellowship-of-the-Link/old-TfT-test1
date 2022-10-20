@@ -6,31 +6,15 @@
 ---
 # Mapping the Tools for Thought Landscape
 
-## Scorecard: N tools 
+## Scorecard: N?? tools 
 
-*spidergraph* of N tools (d3.js?), grabbing / presenting local copy of data from datastore (GDoc?)
+spidergraph?? of N tools (d3.js?), using datastore fed from personal profiles
 
-## Find your ideal tool(s)
-
-Rate the importance of the following aspects of your ideal thinking tool [[More on those dimensions]].
-
-*Form:*
-
-* DimensionName: - *user input (1-5)*
-* DimensionName: - *user input (1-5)*
-* DimensionName: - *user input (1-5)*
-* DimensionName: - *user input (1-5)*
-* DimensionName: - *user input (1-5)*
-* DimensionName: - *user input (1-5)*
-* DimensionName: - *user input (1-5)*
-
-
-*button*: ENTER (adds a new line of data to spidergraph, stored & displayed locally: "ME")
-
+Add your own stories, tools and techniques: [[Contribute]]
 
 ## Most popular Tools
 
-*Table of Tools with Number of Votes*
+*Table of Tools with Number of Personal profiles mentioning it*
 
 
 ## Latest Users
@@ -45,6 +29,6 @@ more *(to Users)*
 
 ## Get help and Join in
 
-* [[project/About]]
-* [[Use]]
-* [[Contribute]]
+* [[About]] this site
+* [[Use]] this site
+* [[Contribute]] to this site

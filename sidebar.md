@@ -5,6 +5,7 @@
 * Project
 	* [[Use]]
 	* [[Contribute]]
-	* [[project/About]]
+	* [[About]]
+	* [[Project plan]]
 	* [[Known issues]] 
 	* [[ToDos]]

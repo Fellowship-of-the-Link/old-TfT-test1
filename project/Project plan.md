@@ -7,11 +7,11 @@ This is one of several possible plans. It presupposed that we can actually get t
 ## Build
 * Create a first set of scoring dimensions, which will mean aligning various tables developed by various people (ML)
 * Get the site working, so anyone can see how the actual map could look
-	* population of tool and technique files with excerpts from personal profiles 
-		*  test by adding our profiles
+	* population of tool and technique files with excerpts from personal profiles (PK)
+		* test by adding our profiles
 		* edit referenced tool and technique pages
-	* homepage (see [[homepage spidergraph proposal]])
-	* [[404 page process]]
+	* homepage - see [[homepage spidergraph proposal]]: with embedded spidergraph, but without the user input form
+	* [[404 page process]] ("A better 404 page" done)
 	* create [[known issues]] file
 * Create Documentation: v1 (understandable by FoTL/OGM community), for...
 
@@ -20,7 +20,9 @@ This is one of several possible plans. It presupposed that we can actually get t
 * post an invite to Town Square & elsewhere on Mattermost
 * assess interest
 * support early adopters to contribute their content
-* refine site and documentation in light of experience and feedback, creating v2 of both
+* refine site and documentation in light of experience and feedback, creating v2 of both. For example
+	* [[404 page process]]: Automated template-driven page creation
+	* homepage - see [[homepage spidergraph proposal]]: add user input form
 
 ## Launch 2: Friends of friends
 

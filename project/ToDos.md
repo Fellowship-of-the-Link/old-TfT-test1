@@ -10,9 +10,9 @@ Read and comment on the ideas to date:
 
 * [x] how the site will work: see [[project/About]]
 * [x] [[Project plan]]
-* [ ] suggested home page structure: see [[README]] & [[homepage spidergraph proposal]] 
+* [x] suggested home page structure: see [[README]] & [[homepage spidergraph proposal]] 
 	*  Q: is a wireframe needed?
-* [ ] check and comment on [[404 page process]]
+* [x] check and comment on [[404 page process]]
 
 
 ### ML
@@ -24,7 +24,7 @@ In no particular order (yet):
 
 ### Together
 
-* [ ] flesh out [[Project plan]]
+* [x] flesh out [[Project plan]]
 * [ ] documentation v1
 
 ## Pending
