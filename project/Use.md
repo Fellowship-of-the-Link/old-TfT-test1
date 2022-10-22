@@ -1,6 +1,6 @@
 *version control*: 
 
-* this is version 0
+* this is version 1
 * required for next version: confirm architecture, rewrite into multiple files under 'Project'
 ---
 # How to use this site
@@ -8,25 +8,14 @@
 
 Here's how to tap that knowledge.
 
-## Describe your ideal thinking tool in 7?? numbers
-Everyone contributing to this map rates the thinking tools they use using the following dimensions:
+## Identify your ideal thinking tool shortlist
+Everyone contributing to this map rates the thinking tools they use using the dimensions displayed on the spidergraph on the [Home Page]([[README]]), which also shows their aggregated scores. 
 
-* DimensionName: *explanation*
-* DimensionName: *explanation*
-* DimensionName: *explanation*
-* DimensionName: *explanation*
-* DimensionName: *explanation*
-* DimensionName: *explanation*
+We're currently working on a form where you can input your own personal preferences and see them mapped onto the spidergraph, but for now simply:
+* ask yourself: which dimensions are most important to me?
+* take a look at the spidergraph to identify **your personal shortlist**: the tool(s) which best match those priorities.
 
-The aggregated scores are displayed in the spidergraph on the [Home Page]([[README]]). So:
-
-* use the form alongside it to set your personal priorities
-* hit ENTER: your personal priorities appear on the graph in red (label: "Me")
-* identify **your personal shortlist**: the tool(s) which best match *your* priorities.
-
-*example image*
-
-For example, this visitor prioritised *DimensionName* and *DimensionName*, so *Tool1* and *Tool2* should be on her shortlist.
+More on those dimensions: [[measuring thinking tools]]
 
 ## Explore your shortlisted tools... 
 All tools can be found via the [[Tools]] menu, which points to each tool's Tool Page.  This briefly describes the tool and includes brief excerpts from - and links to - the personal profiles of all users who use that tool.

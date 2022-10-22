@@ -1,10 +1,6 @@
 *version control*: 
 
-
-* this is version 0
-* required for next version: confirm architecture
-
-
+* this is version 1, but it's *unfinished*
 
 ---
 
@@ -16,8 +12,11 @@ One of the key ideas underpining collective intelligence is to not force everyon
 So you can:
 
 * submit your personal profile via *this Google form??* (we'll have to do some post-processing, so this isn't our favourite)
-* download some templates and send in your file(s) (super simple)
-* become a massive.wiki contributor (very cool; you'll need a GitHub account)
+* download a template and send your file to use (super simple)
+* suggest an edit simply by [contacting us]([[Contact us]]) (against the spirit of collective intelligence, so not our favourite)
+* become a massive.wiki contributor (very cool!)
+
+Note: However you contribute your personal profile,  you'll need to know more about [[measuring thinking tools]].
 
 ## Send in your files
 ### Submit your personal profile as a .md file
@@ -27,7 +26,7 @@ The easiest is to simply download this template ([[personal profile template]]),
 * submit via this form??
 * post it to our Mattermost channel??
 
-Please follow the template. You can edit a markdown file using any text editor (Notepad, Obsidian, etc.).
+Please follow the template. You can edit a markdown file using any text editor (Notepad, Obsidian, etc.). Any questions? [[Contact us]]
 
 ### Submit new tool or technique pages
 If your personal profile mentions a tool or technique not already present in the map, download the appropriate  template ([[tool template]], [[tool template]]), edit it locally and submit it (see above).
@@ -52,4 +51,4 @@ A full user manual is available on the massive.wiki site, but in brief, you'll n
 
 * a GitHub account, so you can fork [[this site repository]] of files
 * Git on your computer, so you can 'pull' new versions of the files from the repository to your computer, and 'push' your edits back to it
-* software to edit the markdown files: we recommend Obsidian, as its "Obsidian Git" plugin supports the previous step seamlessly.
+* software to edit the markdown files: we recommend Obsidian, as its "Obsidian Git" plugin supports the previous step seamlessly, but massive.wiki works whatever tool you use.
