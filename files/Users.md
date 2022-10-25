@@ -1,1 +1,0 @@
-Menu of all personal profile pages

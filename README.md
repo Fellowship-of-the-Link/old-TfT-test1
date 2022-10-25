@@ -16,6 +16,7 @@ Add your own stories, tools and techniques: [[Contribute]]
 ## Latest Users
 
 * [[Mathew Lowry]]
+* [[Peter Kaminski]]
 * [[Another Person Profile]]
 * Username
 * Username

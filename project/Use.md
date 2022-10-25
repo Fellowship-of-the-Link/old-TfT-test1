@@ -4,7 +4,7 @@
 * required for next version: confirm architecture, rewrite into multiple files under 'Project'
 ---
 # How to use this site
-**This site presents the collective knowledge of NN?? [[Users]] about the thinking tools they use.** 
+**This site presents the collective knowledge of NN?? [[People]] about the thinking tools they use.** 
 
 Here's how to tap that knowledge.
 

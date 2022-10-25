@@ -34,7 +34,7 @@ When site & home page structure/approach validated
 * [ ] finalise content
 * [ ] tool, technique & personal profile page templates
 	* [ ] add template downloads
-* [ ] [[Tools]], [[Techniques]] & [[Users]] menus
+* [ ] [[Tools]], [[Techniques]] & [[People]] menus
 * [ ] home page 
 	* spidergraph visualisation
 	* user input form
