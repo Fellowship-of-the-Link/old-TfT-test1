@@ -1,10 +1,6 @@
-*version control*: 
+# Thinking Tools Map
 
-* this is version 0
-* required for next version: confirm architecture, then page structure
-
----
-# Mapping the Tools for Thought Landscape
+_Mapping the thinking tool landscape with collective intelligence._
 
 ## Scorecard: N?? tools 
 
@@ -32,3 +28,18 @@ more *(to Users)*
 * [[About]] this site
 * [[Use]] this site
 * [[Contribute]] to this site
+
+---
+
+*version control*:
+
+* this is version 0
+* required for next version: confirm architecture, then page structure
+
+_comments about version control:_
+
+- from Pete: let's talk about how this version control section works.
+	- this is version 0+n
+	- see a similar idea at [Page History in YAML Frontmatter \- Developer Wiki](https://developer.massive.wiki/conversationswiki/page_history_in_yaml_frontmatter)
+
+---
