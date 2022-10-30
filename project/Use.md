@@ -1,7 +1,7 @@
 *version control*: 
 
-* this is version 1
-* required for next version: confirm architecture, rewrite into multiple files under 'Project'
+* this is version 0
+* required for next version: comments from project team, check against working v1 site
 ---
 # How to use this site
 **This site presents the collective knowledge of NN?? [[People]] about the thinking tools they use.** 

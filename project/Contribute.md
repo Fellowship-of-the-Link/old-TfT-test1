@@ -1,6 +1,7 @@
 *version control*: 
 
-* this is version 1, but it's *unfinished*
+* this is version 0
+* required for next version: forms and templates, provide contribution channels, comments from project team, check against working v1 site
 
 ---
 

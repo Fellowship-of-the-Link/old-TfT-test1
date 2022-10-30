@@ -1,10 +1,12 @@
-# Outline Project plan - v1
+*version control*: 
 
-This is one of several possible plans. It presupposed that we can actually get the site working before we show it to anyone. This is therefore not a good plan if the "preparation" phase is too onerous - see [[alternative project plan]].
+* this is version 1
+* to be updated as the site developments
 
-*update (15/10): following meeting 12/10, we're going to try and implement this plan*
+---
+# Outline Project plan 
 
-## Build
+## Build v1 of the site
 * Create a first set of scoring dimensions, which will mean aligning various tables developed by various people (ML)
 * Get the site working, so anyone can see how the actual map could look
 	* population of tool and technique files with excerpts from personal profiles (PK)

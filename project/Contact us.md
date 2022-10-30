@@ -1,10 +1,16 @@
+*version control*: 
+
+* this is version 0
+* required for next version: contact details from Peter and Bill
+
+---
 # Contact us
 
 To contribute to this project, start with [[Contribute]].
 
-If you'd like to join the conversation about massive.wiki, joins us on [our Mattermost channel](https://chat.collectivesensecommons.org/agora/channels/massive-wiki).
+If you'd like to join the conversation, joins us on [our Mattermost channel](https://chat.collectivesensecommons.org/agora/channels/massive-wiki).
 
 Contact us individually:
 * Bill: ??
-* Mathew: [@mathewlowry](https://twitter.com/mathewlowry), https://myhub.ai/@mathewlowry/about/
+* Mathew: [@mathew@campaign.openworlds.info](https://campaign.openworlds.info/web/@mathew) | [@mathewlowry](https://twitter.com/mathewlowry), https://myhub.ai/@mathewlowry/about/
 * Peter: ??

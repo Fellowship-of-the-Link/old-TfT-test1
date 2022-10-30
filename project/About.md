@@ -1,14 +1,14 @@
 *version control*: 
 
 * this is version 0 (see [[project/Project plan]])
-* required for next version: confirm architecture, rewrite as needed
+* required for next version: comments from project team, check against working v1 site
 ---
 
 # About this project
-**This pilot, spawned by [Fellowship of the Link discussions](https://chat.collectivesensecommons.org/agora/pl/whw9kgizb7nifqbe6znu5cgrrr), is creating a partially decentralised map of thinking tools to demonstrate decentralised solutions to collective intelligence.** 
+**This pilot, spawned by [Fellowship of the Link discussions](https://chat.collectivesensecommons.org/agora/pl/whw9kgizb7nifqbe6znu5cgrrr), is creating a decentralised map of thinking tools to demonstrate decentralised solutions to collective intelligence.** 
 
 ## Introduction
-As explained in one of the planned blog posts  ([[1. Building collective intelligence from social knowledge graphs]]), this is hopefully the first in *"a series of pilot projects where:*
+As explained in the first blog post  ([Building collective intelligence from social knowledge graphs](https://medium.com/@mathewlowry/building-collective-intelligence-from-social-knowledge-graphs-e3a465852e8b)), this is hopefully the first in *"a series of pilot projects where:*
 
 - *the tools we have today are used to link ideas in a specific domain (and the people behind them) together in a decentralised way
 - *in the process demonstrating decentralised collective intelligence*
@@ -21,11 +21,9 @@ This particular pilot project is starting with massive.wiki. Future projects mig
 
 **And how will it work?** See the 2nd: [[2. Mapping the thinking tool landscape]], or simply click around.
 
-*version 0: **All blog posts are open for comments: just use massive.wiki to submit your suggested changes, and we can discuss them in GitHub.***
-
 ## How will this map be structured?
 
-*version 0*: You'll find examples of three types of file:
+You'll find examples of three types of file:
 
 * a **personal profile** - eg [[Mathew Lowry]]. Ideally everyone who rates the tools for the spidergraph provides something like this, as each profile ties the other two types of file together with a story about how a real person actually uses them. It includes 
 	* a series of bullets mentioning different tools and techniques; these will appear automatically in the appropriate tool and technique pages (below)

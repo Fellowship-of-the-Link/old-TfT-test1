@@ -1,12 +1,18 @@
+*version control*: 
+
+* this is version 0 (see [[project/Project plan]])
+* if you've stumbled across this site feel free to explore, but bear in mind: nothing works yet
+---
+
 # Thinking Tools Map
 
 _Mapping the thinking tool landscape with collective intelligence._
 
-## Scorecard: N?? tools 
+## Scorecard: N tools 
 
-spidergraph?? of N tools (d3.js?), using datastore fed from personal profiles
+*spidergraph of N tools, using data fed from personal profiles*
 
-Add your own stories, tools and techniques: [[Contribute]]
+**Add your own stories, tools and techniques: [[Contribute]]**
 
 ## Most popular Tools
 
@@ -22,7 +28,7 @@ Add your own stories, tools and techniques: [[Contribute]]
 * Username
 * Username
 
-more *(to Users)*
+**more** (*link to [[Users]]*)
 
 ## Get help and Join in
 
