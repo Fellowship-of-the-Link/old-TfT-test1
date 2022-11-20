@@ -1,7 +1,7 @@
 *version control*: 
 
 * this is version 0 (see [[Project plan]])
-* version 1 is available via an airtable - [[airtable guidelines]]
+* version 1 is under discussion via an airtable - [[airtable guidelines]]
 
 ---
 
