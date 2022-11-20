@@ -13,7 +13,7 @@
 ### Peter, Bill & Mathew knock the basic idea around until it's ready for v1
 * Create a first set of scoring dimensions, which will mean aligning various tables developed by various people 
 	* martyr draft (ML)
-	* airtable draft (all)
+	* airtable draft (all) - see [[airtable guidelines]]
 * create enough data to create spidergraph v0 
 * Get ML up to speed on massive.wiki (herculanean team effort)
 * site mockup (ML).:
