@@ -1,4 +1,5 @@
 *version control*: 
+
 * we are in phase 0
 * plan to be updated as the site develops
 - from Pete: let's talk about how this version control section works.
