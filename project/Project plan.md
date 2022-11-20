@@ -1,8 +1,6 @@
 *version control*: 
-
 * we are in phase 0
 * plan to be updated as the site develops
-
 - from Pete: let's talk about how this version control section works.
 	- this is version 0+n
 	- see a similar idea at [Page History in YAML Frontmatter \- Developer Wiki](https://developer.massive.wiki/conversationswiki/page_history_in_yaml_frontmatter)
