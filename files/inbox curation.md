@@ -3,6 +3,7 @@
 Inbox curation is a practices for reducing today's "information firehose" of content coming at you 24/7 down to a garden hose of the best, most interesting and relevant content, ensuring you spend 90% of your time on the best 10% of the content reaching your various inboxes from these Priority Sources.
 
 Apply inbox curation to your most important sources of information - eg
+
 * if you subscribe to too many enewsletters, use auto-label to put the most interesting ones in a dedicated #highlight folder
 * if you spend too much time scrolling on #twitter, set up a [[twitter list]] of theaccounts which tend to share the most interesting content
 
