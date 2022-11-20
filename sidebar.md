@@ -20,6 +20,5 @@ Instead of bullet lists, use plain lines, with two space characters added to the
 [[Use]]  
 [[Contribute]]  
 [[About]]  
-[[Project plan - backup]]  
-[[Known issues]]  
-[[ToDos (deprecated)]]  
+[[Project plan]]
+[[Known issues]]   
