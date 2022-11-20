@@ -1,6 +1,6 @@
 *version control*: 
 
-* this is version 0
+* this is version 0 (see [[Project plan]])
 * required for next version: contact details from Peter and Bill
 
 ---

@@ -1,4 +1,5 @@
 # homepage spidergraph proposal
+
 This is a short explanation of what I had in mind when I text-sketched out [the home page](README). Keep in mind this is a technology-agnostic wishlist item: if we can't do this it's not the end of the world.
 
 The home page should be dominated by two elements:

@@ -13,13 +13,13 @@ Instead of bullet lists, use plain lines, with two space characters added to the
 [[README|Home]]  
 [[People]]  
 [[Tools]]  
-[[Techniques]]  
+[[Practices]]  
 
 # Project
 
 [[Use]]  
 [[Contribute]]  
 [[About]]  
-[[Project plan]]  
+[[Project plan - backup]]  
 [[Known issues]]  
-[[ToDos]]  
+[[ToDos (deprecated)]]  

@@ -1,3 +1,8 @@
+*version control*: 
+
+* this is version 0 (see [[Project plan]]) of an example Personal Profile
+* both structure and comntent (particularly the Ratings) need to be revised for phase 1
+
 #MyProfile: 
 # Mathew Lowry
 ## About me
@@ -6,11 +11,13 @@ Information architect, communication strategist, etc etc. Founder, [[myhub]].
 More: https://myhub.ai/@mathewlowry/about/
 
 ## My ideal thinking tool(s) 
+
 One tool which supports me in reading, note-making, writing and publishing without forcing me to invest major time in becoming a power user and/or taking expensive courses. In an ideal world it would also handle my todos and time.
 
 How close is my current system (below) to this ideal? Not at all.
 
-## My current tools and techniques
+## My current tools and practices
+
 * I use  [[inbox curation]] to identify high-priority sources of content: in [[gmail]] I auto-label high-priority [[enewsletter]], and I maintain a [[twitter list]]
 * I use [[GTD]]: I have recurring [[calendar]] items and tasks to [[scan]] priority sources; [[queue]] the best content to read to [[pocket]]; read, [[annotate]] and [[tag]] the best content into [[myhub]]
 * I also use [[progressive summarisation]] to better embed the knowledge,  via [[zettelkasten]] overviews in [[myhub]], [[enewsletter]] editions and original posts.

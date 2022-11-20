@@ -1,11 +1,17 @@
 *version control*: 
 
-* this is version 0 (see [[project/Project plan]])
-* required for next version: comments from project team, check against working v1 site
+* this is version 0 (see [[Project plan]])
+
 ---
 
 # About this project
 **This pilot, spawned by [Fellowship of the Link discussions](https://chat.collectivesensecommons.org/agora/pl/whw9kgizb7nifqbe6znu5cgrrr), is creating a decentralised map of thinking tools to demonstrate decentralised solutions to collective intelligence.** 
+
+## Vision statement (tbd)
+
+---
+
+*ML first draft follows*
 
 ## Introduction
 As explained in the first blog post  ([Building collective intelligence from social knowledge graphs](https://medium.com/@mathewlowry/building-collective-intelligence-from-social-knowledge-graphs-e3a465852e8b)), this is hopefully the first in *"a series of pilot projects where:*
@@ -29,8 +35,8 @@ You'll find examples of three types of file:
 	* a series of bullets mentioning different tools and techniques; these will appear automatically in the appropriate tool and technique pages (below)
 	* the scores they give each tool they use; these are automatically added to the datastore which powers the spidergraph on the [home page]([[README]]) 
 * **two types of zettelkasten overview**
-	* **technique:** this describes a thinking tool technique, eg [[inbox curation]] It includes a brief description, link(s) and an automatically created list of the people who use this technique, along with the associated bullet from their profile describing how they use it
-	* **tool**: similar to a technique, but describes a thinking tool, eg [[roam]] or [[Pocket]], and
+	* **pratice:** this describes a thinking tool practice, eg [[inbox curation]] It includes a brief description, link(s) and an automatically created list of the people who use this practice, along with the associated bullet from their profile describing *how* they use it
+	* **tool**: similar to a practice, but describes a thinking tool, eg [[roam]] or [[Pocket]], and
 		* the automated list of people profiles which use it, along with the associated bullet from their profile describing how they use it
 		* **the scores they gave it** (only actual scores included; blanks are not imported).
 
@@ -39,9 +45,9 @@ The 2nd blog post ([[2. Mapping the thinking tool landscape]]) has a visual show
 
 ![](https://cdn-images-1.medium.com/max/1000/1*RFMbqtFqw7xHmotEmNFqEw.png)
 
-**Personal profiles are key** because newcomers need stories as well as scores, so each profile gives a newcomer someone to learn from: *how do they combine which tools and techniques together*? 
+**Personal profiles are key** because newcomers need stories as well as scores, so each profile gives a newcomer someone to learn from: *How do they combine Which tools and practice together*? 
 
-And in every file, of course, each mention of any tool or technique links to the zettelkasten overview for that tool or technique, where users get both:
+And in every file, of course, each mention of any tool or practice links to the zettelkasten overview for that tool or practice, where users get both:
 
-* a description of the tool / technique
+* a description of the tool / practice
 * links to explore how different people use it, and the scores they gave to it

@@ -1,7 +1,11 @@
 *version control*: 
 
-* this is version 0
-* required for next version: comments from project team, check against working v1 site
+* this is version 0 (see [[Project plan]])
+* as such it sets out the project's current aspirations - nothing currently works; details to be developed are highlighted with a ??
+* Notes
+	* NN = total number of participants who have submitted pesonal profiles
+	* TT = total number of Tool files
+	* PP = total number of Practice files
 ---
 # How to use this site
 **This site presents the collective knowledge of NN?? [[People]] about the thinking tools they use.** 
@@ -25,13 +29,13 @@ So follow the links to the personal profiles and explore how different people in
 
 You'll quickly find that each such system is unique. Each could help you get started.
 
-## ... and their techniques
-Each person's personal productivity system is different as it is not just composed of tools - they include techniques, too. There are probably hundreds of productivity techniques: we currently some of them in the [[Techniques]] menu. 
+## ... and their practices
+Each person's personal productivity system is different as it is not just composed of tools - they include *practices*, too. There are probably hundreds of productivity practices: we currently some of them in the [[Practices]] menu. 
 
-All thinking tools support one or some of these techniques to some degree, so choosing the right tool depends partly on identifying which techniques matter most to you, and which tool supports those techniques best.
+All thinking tools support one or some of these practices to some degree, so choosing the right tool depends partly on identifying which practices matter most to you, and which tool supports those practices best.
 
-Each technique is described in a Technique page. Like Tool pages, they include a brief description of the technique, followed by brief excerpts from - and links to - the personal profiles of all users who use that technique.
+Each practices is described in a Practices page. Like Tool pages, they include a brief description of the practices, followed by brief excerpts from - and links to - the personal profiles of all users who use that practices.
 
-**So you can browse from a tool to the profile of someone who uses that tool, to a technique that person uses, to the profile of *another* person who uses that technique, to a tool *that* person uses, and so on.**
+**So you can browse from a tool to the profile of someone who uses that tool, to a practices that person uses, to the profile of *another* person who uses that practices, to a tool *that* person uses, and so on.**
 
 Enjoy!

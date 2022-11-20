@@ -8,7 +8,7 @@ More: https://myhub.ai/@mathewlowry/about/
 ## My ideal thinking tool(s) 
 
 
-## My current tools and techniques
+## My current tools and practices
 * 
 
 

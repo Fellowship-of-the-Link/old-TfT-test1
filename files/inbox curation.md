@@ -1,6 +1,6 @@
-#technique: [[inbox curation]]
+#practice: [[inbox curation]]
 # What it is
-Inbox curation is a technique for reducing today's "information firehose" of content coming at you 24/7 down to a garden hose of the best, most interesting and relevant content, ensuring you spend 90% of your time on the best 10% of the content reaching your various inboxes from these Priority Sources.
+Inbox curation is a practices for reducing today's "information firehose" of content coming at you 24/7 down to a garden hose of the best, most interesting and relevant content, ensuring you spend 90% of your time on the best 10% of the content reaching your various inboxes from these Priority Sources.
 
 Apply inbox curation to your most important sources of information - eg
 * if you subscribe to too many enewsletters, use auto-label to put the most interesting ones in a dedicated #highlight folder
