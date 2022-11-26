@@ -8,10 +8,10 @@
 
 _Mapping the thinking tool landscape with collective intelligence._
 
-## Scorecard: N tools 
+## Current Tools4Thought Scorecard (demo)
 
 ![[radar-demo1.png]]
-*5 Tools for Thought scored against the current set of 11 dimensions. Data extracted from NN personal profiles.*
+*5 Tools for Thought scored using the current 11 dimensions. Data extracted from NN personal profiles.*
 
 * ***Add your own stories, tools and techniques: [[Contribute]]**
 * Learn more and contribure to these dimensions: [[measuring thinking tools]]
@@ -24,7 +24,7 @@ _Mapping the thinking tool landscape with collective intelligence._
 * [[roam]]: 1
 * [[Pocket]]: 1
 
-See all  [[Tools]]
+See all  [[Tools]].
 
 ## Latest People
 
@@ -35,7 +35,7 @@ See all  [[Tools]]
 * Username
 * Username
 
-**more** (*link to [[People]]*)
+See all [[People]].
 
 ## Get help and Join in
 
