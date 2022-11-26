@@ -10,9 +10,12 @@ _Mapping the thinking tool landscape with collective intelligence._
 
 ## Scorecard: N tools 
 
-*spidergraph of TT tools, using data fed from NN personal profiles*
+![[radar-demo1.png]]
+*5 Tools for Thought scored against the current set of 11 dimensions. Data extracted from NN personal profiles.*
 
-**Add your own stories, tools and techniques: [[Contribute]]**
+* ***Add your own stories, tools and techniques: [[Contribute]]**
+* Learn more and contribure to these dimensions: [[measuring thinking tools]]
+
 
 ## Most popular Tools
 

@@ -15,7 +15,7 @@ This is unlikely to be an easy balance to find, as:
 
 # Version 0: "Mathew's Maiden Martyr Draft"
 
-So version 0, below, tries to keep the number of dimensions to a minimum. As its unofficial title suggests its designed to spark discussion, so I'll see you on Mattermost:
+So version 0, below, tried to keep the number of dimensions to a minimum. As its unofficial title suggests, it was designed to spark discussion and it did. With version 1, this conversation will continue on airtable - see [[airtable guidelines]].
 
 | **Axis**           | **Definition**                                                                    | **To score highly**                                                                                                                           |     |     |     |     |
 | ------------------ | --------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- | --- | --- | --- | --- |
