@@ -1,10 +1,5 @@
-*version control*: 
-
-* this is version 0 (see [[Project plan]])
-
----
-
 # About this project
+
 **This pilot, spawned by [Fellowship of the Link discussions](https://chat.collectivesensecommons.org/agora/pl/whw9kgizb7nifqbe6znu5cgrrr), is creating a decentralised map of thinking tools to demonstrate decentralised solutions to collective intelligence.** 
 
 ## Vision statement (tbd)

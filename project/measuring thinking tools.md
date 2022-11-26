@@ -1,10 +1,3 @@
-*version control*: 
-
-* this is version 0 (see [[Project plan]])
-* version 1 is under discussion via an airtable - [[airtable guidelines]]
-
----
-
 # How we measure thinking tools
 
 **The dimensions used to characterise thinking tools in the spidergraph on the [home page]([[README]]) need to find a balance between usability and granularity.**
@@ -32,5 +25,10 @@ So version 0, below, tried to keep the number of dimensions to a minimum. As its
 | Data sovereignty   | Who owns your data?                                                               | Your files on your PC.                                                                                                                        |     |     |     |     |
 | 
 
-## Version 1
-The above were transferred to this airtable, where the conversation is ongoing.
+---
+
+### Revision Comments
+
+The above were transferred to an airtable, where the conversation is ongoing.
+
+See also: [[airtable guidelines]]

@@ -1,9 +1,3 @@
-*version control*: 
-
-* this is version 0 (see [[Project plan]])
-* required for next version: contact details from Peter and Bill
-
----
 # Contact us
 
 To contribute to this project, start with [[Contribute]].
@@ -14,3 +8,9 @@ Contact us individually:
 * Bill: ??
 * Mathew: [@mathew@campaign.openworlds.info](https://campaign.openworlds.info/web/@mathew) | [@mathewlowry](https://twitter.com/mathewlowry), https://myhub.ai/@mathewlowry/about/
 * Peter: ??
+
+---
+
+## Revision Comments
+
+* required for version 1: contact details from Peter and Bill

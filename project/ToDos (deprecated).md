@@ -1,9 +1,3 @@
-
-*version control*: 
-* this page is deprecated - there are some todos in the [[Project plan]], but IMHO (ML) a better todo mgt tool is needed
-
----
-
 # ToDos
 (ML) *This is a braindump in prep for our next meeting*: please do not see this as instructions, but as me trying to get my thoughts down for discussion when we meet.
 
@@ -48,4 +42,9 @@ When site & home page structure/approach validated
 
 ## Someday (for Launch 1 & later)
 
+---
 
+### Revision Comments
+
+* this page is deprecated - there are some todos in the [[Project plan]], but IMHO (ML) a better todo mgt tool is needed
+    * see the [issue tracker](https://airtable.com/appU6YTfdpPmQ34Wr)

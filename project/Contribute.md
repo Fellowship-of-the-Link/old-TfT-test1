@@ -1,10 +1,3 @@
-*version control*: 
-
-* this is version 0 (see [[Project plan]])
-* as such it sets out the project's current aspirations - nothing currently works; details to be developed are highlighted with a ??
-
----
-
 # How to contribute
 
 **There are several ways to contribute to the map.**
@@ -55,3 +48,10 @@ A full user manual is available on the massive.wiki site??, but in brief, you'll
 * a GitHub account, so you can fork [[this site repository]] of files
 * Git on your computer, so you can 'pull' new versions of the files from the repository to your computer, and 'push' your edits back to it
 * software to edit the markdown files: we recommend Obsidian, as its "Obsidian Git" plugin supports the previous step seamlessly, but massive.wiki works whatever tool you use.
+
+---
+
+## Revision Comments
+
+* sets out the project's current aspirations - nothing currently works; details to be developed are highlighted with a ??
+

@@ -1,11 +1,7 @@
-*version control*: 
-
-* this is version 0 (see [[Project plan]]) of an example Personal Profile
-* both structure and comntent (particularly the Ratings) need to be revised for phase 1
-
-#MyProfile: 
 # Mathew Lowry
+
 ## About me
+
 Information architect, communication strategist, etc etc. Founder, [[myhub]].
 
 More: https://myhub.ai/@mathewlowry/about/
@@ -38,5 +34,10 @@ More: https://myhub.ai/@mathewlowry/?tags=content+strategy&types=think&timeframe
 		* too cultish/geeky for me
 	* Semantics
 
+---
 
+## Revision Comments
 
+* this is an example Personal Profile
+* consider if profiles need a hashtag, e.g. #MyProfile or #Person or whatever
+* both structure and content (particularly the Ratings) need to be revised for phase 1

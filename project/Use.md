@@ -1,13 +1,5 @@
-*version control*: 
-
-* this is version 0 (see [[Project plan]])
-* as such it sets out the project's current aspirations - nothing currently works; details to be developed are highlighted with a ??
-* Notes
-	* NN = total number of participants who have submitted pesonal profiles
-	* TT = total number of Tool files
-	* PP = total number of Practice files
----
 # How to use this site
+
 **This site presents the collective knowledge of NN?? [[People]] about the thinking tools they use.** 
 
 Here's how to tap that knowledge.
@@ -39,3 +31,12 @@ Each practices is described in a Practices page. Like Tool pages, they include a
 **So you can browse from a tool to the profile of someone who uses that tool, to a practices that person uses, to the profile of *another* person who uses that practices, to a tool *that* person uses, and so on.**
 
 Enjoy!
+
+---
+
+## Revision Comments
+
+* Notes
+	* NN = total number of participants who have submitted pesonal profiles
+	* TT = total number of Tool files
+	* PP = total number of Practice files

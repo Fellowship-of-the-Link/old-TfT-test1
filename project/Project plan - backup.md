@@ -1,9 +1,3 @@
-*version control*: 
-
-* this is version 1
-* to be updated as the site developments
-
----
 # Outline Project plan 
 
 ## Build v1 of the site

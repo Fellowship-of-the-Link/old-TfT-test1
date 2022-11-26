@@ -1,9 +1,3 @@
-*version control*: 
-
-* this is version 0 (see [[Project plan]])
-* so if you've stumbled across this site feel free to explore, but bear in mind: nothing works yet
----
-
 # Thinking Tools Map
 
 _Mapping the thinking tool landscape with collective intelligence._
