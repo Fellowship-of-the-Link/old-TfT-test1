@@ -4,7 +4,7 @@
 
 Information architect, communication strategist, etc etc. Founder, [[myhub]].
 
-More: https://myhub.ai/@mathewlowry/about/
+More: <https://myhub.ai/@mathewlowry/about/>
 
 ## My ideal thinking tool(s) 
 
