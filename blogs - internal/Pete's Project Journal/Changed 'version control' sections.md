@@ -1,4 +1,4 @@
-# Changed "version control" sections
+# Changed 'version control' sections
 
 _a post in [[Pete's Project Journal]]_
 

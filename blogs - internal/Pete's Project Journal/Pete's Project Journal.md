@@ -2,4 +2,4 @@
 
 _Posts and thoughts by [[Peter Kaminski]]_
 
-- [[Changed "version control" sections]]
+- [[Changed 'version control' sections]]
