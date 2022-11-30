@@ -44,7 +44,7 @@ When site & home page structure/approach validated
 
 ---
 
-### Revision Comments
+### Revision Notes
 
 * this page is deprecated - there are some todos in the [[Project plan]], but IMHO (ML) a better todo mgt tool is needed
     * see the [issue tracker](https://airtable.com/appU6YTfdpPmQ34Wr)

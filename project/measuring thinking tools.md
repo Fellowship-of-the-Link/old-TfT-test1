@@ -27,7 +27,7 @@ So version 0, below, tried to keep the number of dimensions to a minimum. As its
 
 ---
 
-### Revision Comments
+### Revision Notes
 
 The above were transferred to an airtable, where the conversation is ongoing.
 

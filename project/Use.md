@@ -34,7 +34,7 @@ Enjoy!
 
 ---
 
-## Revision Comments
+## Revision Notes
 
 * Notes
 	* NN = total number of participants who have submitted pesonal profiles

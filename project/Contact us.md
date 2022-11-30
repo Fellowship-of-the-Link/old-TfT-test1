@@ -11,6 +11,6 @@ Contact us individually:
 
 ---
 
-## Revision Comments
+## Revision Notes
 
 * required for version 1: contact details from Peter and Bill

@@ -10,6 +10,6 @@ This page sets out how you can contribute to this conversation on airtable.com a
 
 ---
 
-## Revision Comments
+## Revision Notes
 
 * This is a stub, to be developed for version 1 (meaningful glance at @peter ;) )

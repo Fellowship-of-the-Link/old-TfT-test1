@@ -36,7 +36,7 @@ More: https://myhub.ai/@mathewlowry/?tags=content+strategy&types=think&timeframe
 
 ---
 
-## Revision Comments
+## Revision Notes
 
 * this is an example Personal Profile
 * consider if profiles need a hashtag, e.g. #MyProfile or #Person or whatever

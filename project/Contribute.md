@@ -51,7 +51,7 @@ A full user manual is available on the massive.wiki site??, but in brief, you'll
 
 ---
 
-## Revision Comments
+## Revision Notes
 
 * sets out the project's current aspirations - nothing currently works; details to be developed are highlighted with a ??
 
