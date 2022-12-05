@@ -1,4 +1,4 @@
-# airtable guidelines
+# airtable guidelines (deprecated)
 
 ## What is this page for?
 

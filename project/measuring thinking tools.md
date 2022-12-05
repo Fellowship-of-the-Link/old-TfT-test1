@@ -6,12 +6,12 @@ This is unlikely to be an easy balance to find, as:
 * the people *contributin*g this data know the tools well (and so will generally prefer granularity). 
 * but *this map is aimed at newcomers*, for whom usability is more important as they try and find their way through this landscape.
 
-# Version 0: "Mathew's Maiden Martyr Draft"
+# Version 1
 
-So version 0, below, tried to keep the number of dimensions to a minimum. As its unofficial title suggests, it was designed to spark discussion and it did. With version 1, this conversation will continue on airtable - see [[airtable guidelines]].
+For version 1, below, we've tried to find a balance and keep the number of dimensions to ~10. 
 
 | **Axis**           | **Definition**                                                                    | **To score highly**                                                                                                                           |     |     |     |     |
-| ------------------ | --------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- | --- | --- | --- | --- |
+| ------------------ | --------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- | 
 | Openness           | How well does it play with other tools? How interoperable and customisable is it? | F/OSS.  Use open standards.  Has an API.  Import/Export  Allow 3rd party plugins.  Available on all OSs, platforms.  Supports structured data |     |     |     |     |
 | Note-making        | How good is it as a note-making tool?                                             | Good outliner (easy indent/outdent, reorder, fold/zoom...)  Atomic note structure, block references.  Zettlekasten support.                   |     |     |     |     |
 | Writing/Publishing | How good is it as a writing & publishing tool?                                    | WYSIWYG, zen writing environment/design, editing feature set, seamless publishing system to Web, Social.                                      |     |     |     |     |
@@ -24,6 +24,9 @@ So version 0, below, tried to keep the number of dimensions to a minimum. As its
 | Cost               | How expensive is the tool                                                         | Free, or at least a v. useful free version in a freemium model                                                                                |     |     |     |     |
 | Data sovereignty   | Who owns your data?                                                               | Your files on your PC.                                                                                                                        |     |     |     |     |
 | 
+
+There are [[comment on this site's content]]. 
+
 
 ---
 

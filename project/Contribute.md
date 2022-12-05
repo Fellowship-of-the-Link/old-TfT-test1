@@ -38,13 +38,16 @@ Would you like to improve an existing tool or practice page? Either become a mas
 * submit it (see above).
 
 ## Become a massive.wiki contributor
+
 This site is a massive.wiki, which means you can:
+
 * download its content into your own note-taking system in the form of markdown files
 * do whatever you like with them on your personal machine
 * contribute your edits and entirely new files back to the site
 * get and then accept or reject any updates whenever anyone else contributes knowledge.
 
 A full user manual is available on the massive.wiki site??, but in brief, you'll need:
+
 * a GitHub account, so you can fork [[this site repository]] of files
 * Git on your computer, so you can 'pull' new versions of the files from the repository to your computer, and 'push' your edits back to it
 * software to edit the markdown files: we recommend Obsidian, as its "Obsidian Git" plugin supports the previous step seamlessly, but massive.wiki works whatever tool you use.
