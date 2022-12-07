@@ -18,9 +18,13 @@ Instead of bullet lists, use plain lines, with two space characters added to the
 # Project
 
 [[Use]]  
+
 [[Contribute]]  
-[Comment]([[comment on this site's content]])
+
+[Comment]([[comment on this site's content]])  
+
 [[About]]  
-[[Project plan]]
+
+[[Project plan]] 
 
 [[Known issues]]   
