@@ -16,7 +16,7 @@ As explained in the first blog post  ([Building collective intelligence from soc
 - *we learn from the experience to create a new iteration of slightly better tools as a result, along with a slightly bigger audience,*
 -  *rinse, repeat.*"
 
-This particular pilot project is starting with massive.wiki. Future projects might try other solutions, or ideally expand this one to work with them.
+This particular pilot project is working with massive.wiki. Future projects might try other solutions, or expand this one to work with them.
 
 **Why thinking tools?** See the third planned blog post: [[3. Why you probably won’t use that thinking tool the same way as anyone else]].
 

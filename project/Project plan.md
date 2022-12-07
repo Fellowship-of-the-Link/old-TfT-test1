@@ -1,16 +1,17 @@
 # Project plan 
 
 ## Version 0: define, create mockup
-### Peter, Bill & Mathew knock the basic idea around until it's ready for v1
+
+### At a glance: Peter, Bill & Mathew knock the basic idea around until it's ready for v1
+
 * Create a first set of scoring dimensions, which will mean aligning various tables developed by various people 
-	* martyr draft (ML)
-	* airtable draft (all) - see [[airtable guidelines]]
-* create enough data to create spidergraph v0 
+	* martyr draft (ML) - done
+	* transferred to airtable draft (all) - done
+	* to [[measuring thinking tools]] for comments in v1
 * Get ML up to speed on massive.wiki (herculanean team effort)
-* site mockup (ML).:
+* site mockup (ML): no actual code, but shows how it will look  
 	* first draft site structure 
 	* first draft content types (personal profiles, tools, practices, etc) & ancillary pages
-	* no actual code, but shows how it will look  
 
 ### ToDo:
 * vision statement (all)
@@ -18,22 +19,26 @@
 * create spidergraph mockup v0, add to home page (ML) - done
 * Get Documentation to v1-ready state, including
 	* basic massive.wiki documentation
-	* [[airtable guidelines]]
+	* [[Contribute]] - to check
+	* [[comment on this site's content]] - to check
 
 
 ## Version 1:  FoTL/OGM early adopters
+
 ### Two activities in parallel:
-* Run a wider discussion with early adopters from FoTL/OGM community about the scoring dimensions, and achieve a consensus
-* get basic code working and test it
+
+* Run a wider discussion with early adopters from FoTL/OGM community about the scoring dimensions, and **achieve a consensus**
+* get basic code working and test it, with all providing data on their favourite tools 
 
 When these two activities converge we will have Version 2.
 
 ### ToDo
+
 * achieve consensus on dimensions on airtable
 * The site actually works somewhat:
 	* tool and practice files auto-populated with excerpts from personal profiles
-	* data from personal profiles added to datastore?
-	* spidergraph auto-updated from datastore?
+	* data from personal profiles added to datastore
+	* spidergraph auto-updated from datastore (ideally)
 	* homepage - see [[homepage spidergraph proposal]]: with embedded spidergraph (without user input form)
 	* [[404 page process]] 
 		* "A better 404 page" - already done
