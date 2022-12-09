@@ -19,6 +19,6 @@ Instead of bullet lists, use plain lines, with two space characters added to the
 
 [[Use]]  
 [[Contribute]]  
-[[comment on this site's content]]
+[[comment on this site's content]]  
 [[About]]  
 [[Project plan]]    
