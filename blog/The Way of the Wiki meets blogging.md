@@ -75,6 +75,8 @@ tbc
 	* a "search for all versions" (site feature: part of the permanent copy template) 
 	* an explanatory "this is a snapshot" label - see for example wikipedia's view history  (site feature: part of the permanent copy template)
 
+One problem I see here is that the Editor must decide to create a major version **before starting editing**, not after having worked on the content.
+
 ### Mimicking this manually
 
 *ML:* Note that almost all of the above can be done easily manually, which is what we'll have to do for this file - ie:
@@ -116,11 +118,6 @@ Hence the creation of a major version entails the following manual processes:
 
 As set out above, I'm testing this with versions 1 & 2 before pushing both to the repo and opening the discussion.
 
-*v2 update:*  
-
-* for some reason hyperlinks are not working well in Obsidian for me: when I add the link to version 1 using markup's *[ linktext] ([ [ fiile] ])* format, the resulting hyperlink points to a (until then non-existent) page called "[ [The"] ]"  - I've added both to the Revision Notes, below
-* very obvious problem: there was nothing at the top of the permanent copy saying: "This is a snapshot" - fixed and added to instructions, above
-* bad formatting fixed
 
 ---
 
@@ -130,3 +127,8 @@ As set out above, I'm testing this with versions 1 & 2 before pushing both to th
 	* this is version: current
 	* here is the [current version]([[The Way of the Wiki meets blogging]])
 	* previous version: [version 1]([[The Way of the Wiki meets blogging 1]]): [[The Way of the Wiki meets blogging 1]]
+* key changes in this version:
+	* for some reason hyperlinks are not working well in Obsidian for me: when I add the link to version 1 using markup's *[ linktext] ([ [ fiile] ])* format, the resulting hyperlink points to a (until then non-existent) page called "[ [The"] ]"  - I've added both to the version control section, above to illustrate
+	* very obvious problem: there was nothing at the top of the permanent copy saying: "This is a snapshot" - fixed and added to instructions, above
+	* bad formatting fixed and moved these notes to RN - several minor versions
+	* key issue added: one must decide to create a major version **before you start editing**
