@@ -96,6 +96,7 @@ tbc
 * when it is time to work on v3
 	* duplicate the current file, creating (*The Way of the Wiki meets blogging-2*), and 
 		* move it into the permanent versions subfolder
+		* add a "snapshot warning" at the top of the page pointing to version control section
 		* edit its version control section
 			* this is version: *2*
 			* here is the [current version]([[The Way of the Wiki meets blogging]])
@@ -107,10 +108,14 @@ tbc
 
 Hence the creation of a major version entails the following manual processes
 * creating a copy and moving it into a subfolder
-* editing one line in the copy: changign "current" to N
+* editing two lines in the copy: changing "current" to N, and adding the "snapshot warning" 
 * editing one line in the current version: changing the label and link to the previous version
 
 As set out above, I'm testing this with versions 1 & 2 before pushing both to the repo and opening the discussion.
+
+*v2 update:*  
+* for some reason hyperlinks are not working well in Obsidian for me: when I add the link to version 1 using markup's *[ linktext] ([ [ fiile] ])* format, the resulting hyperlink points to a (until then non-existent) page called "[ [The"] ]"  - I've added both to the Revision Notes, below
+* very obvious problem: there was nothing at the top of the permanent copy saying: "This is a snapshot" - added  
 
 ---
 
@@ -119,4 +124,4 @@ As set out above, I'm testing this with versions 1 & 2 before pushing both to th
 * version control (currently managed manually) 
 	* this is version: current
 	* here is the [current version]([[The Way of the Wiki meets blogging]])
-	* previous version: n/a
+	* previous version: [version 1]([[The Way of the Wiki meets blogging 1]]): [[The Way of the Wiki meets blogging 1]]
