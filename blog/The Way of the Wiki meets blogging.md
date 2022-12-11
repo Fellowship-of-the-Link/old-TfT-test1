@@ -114,8 +114,9 @@ Hence the creation of a major version entails the following manual processes
 As set out above, I'm testing this with versions 1 & 2 before pushing both to the repo and opening the discussion.
 
 *v2 update:*  
+
 * for some reason hyperlinks are not working well in Obsidian for me: when I add the link to version 1 using markup's *[ linktext] ([ [ fiile] ])* format, the resulting hyperlink points to a (until then non-existent) page called "[ [The"] ]"  - I've added both to the Revision Notes, below
-* very obvious problem: there was nothing at the top of the permanent copy saying: "This is a snapshot" - added  
+* very obvious problem: there was nothing at the top of the permanent copy saying: "This is a snapshot" - fixed and added to instructions, above
 
 ---
 
