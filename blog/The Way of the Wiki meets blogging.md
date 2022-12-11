@@ -44,6 +44,8 @@ Better, perhaps, to have a canonical blog post which sets out the current versio
 
 *ML:* The above applies to blog posts because blog posts are (usually) written by a single author and are presented in a reverse chronological feed which implies Newer is Better. Wiki pages, on the other hand, are collaborative efforts where the authorship can be almost impossible to track. 
 
+*WLA (2022-12-11):* It seems to me that on wikis the authorship is not as important as the text of the wiki pages, and, perhaps, how well that content is written and cited.
+
 *ML:* They are also not time-critical in nature and so are presented as part of an interconnected body of knowledge organised more by topic than creation date (how often do you visit Wikipedia to view it's "latest page"?). So how would version control and permanent versions look like in this context?
 
 tbc
