@@ -65,6 +65,7 @@ tbc
 ### Designing a first class function
 
 *ML:* In our chat we discussed a "first class function" for massive.wiki for making a new major version of a file. With a click:
+
 * the version number of the file being edited is increased by 1, but remains the "current" version of the file, available at the primary URL (this one is "*domain/blog/The Way of the Wiki meets blogging*") 
 * a copy of the file is created in an archive folder, becoming the permanent copy of the previous version. It's filename includes the current version's filename appended with the version number and the creation date.
 	* Q: does it need a hash as well?
@@ -77,6 +78,7 @@ tbc
 ### Mimicking this manually
 
 *ML:* Note that almost all of the above can be done easily manually, which is what we'll have to do for this file - ie:
+
 * create v1 (*The Way of the Wiki meets blogging*), with the following version control section in the Revision Notes
 	* this is version: current
 	* here is the [current version]([[The Way of the Wiki meets blogging]]) 
@@ -106,7 +108,8 @@ tbc
 		* here is the [current version]([[The Way of the Wiki meets blogging]]) 
 		* previous version: [*version 2*]([[The Way of the Wiki meets blogging-1]])
 
-Hence the creation of a major version entails the following manual processes
+Hence the creation of a major version entails the following manual processes:
+
 * creating a copy and moving it into a subfolder
 * editing two lines in the copy: changing "current" to N, and adding the "snapshot warning" 
 * editing one line in the current version: changing the label and link to the previous version
@@ -117,6 +120,7 @@ As set out above, I'm testing this with versions 1 & 2 before pushing both to th
 
 * for some reason hyperlinks are not working well in Obsidian for me: when I add the link to version 1 using markup's *[ linktext] ([ [ fiile] ])* format, the resulting hyperlink points to a (until then non-existent) page called "[ [The"] ]"  - I've added both to the Revision Notes, below
 * very obvious problem: there was nothing at the top of the permanent copy saying: "This is a snapshot" - fixed and added to instructions, above
+* bad formatting fixed
 
 ---
 
