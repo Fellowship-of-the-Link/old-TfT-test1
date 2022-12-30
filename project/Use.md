@@ -8,13 +8,14 @@ Here's how to tap that knowledge.
 Everyone contributing to this map rates the thinking tools they use using the dimensions displayed on the spidergraph on the [Home Page]([[README]]), which also shows their aggregated scores. 
 
 We're currently working on a form where you can input your own personal preferences and see them mapped onto the spidergraph, but for now simply:
+
 * ask yourself: which dimensions are most important to me?
 * take a look at the spidergraph to identify **your personal shortlist**: the tool(s) which best match those priorities.
 
 More on those dimensions: [[measuring thinking tools]]
 
 ## Explore your shortlisted tools... 
-All tools can be found via the [[Tools]] menu, which points to each tool's Tool Page.  This briefly describes the tool and includes brief excerpts from - and links to - the personal profiles of all users who use that tool.
+Some TT tools can be found via the [[Tools]] menu, which points to each tool's Tool Page.  This briefly describes the tool and includes brief excerpts from - and links to - the personal profiles of all users who use that tool.
 
 ## ... and their users...
 So follow the links to the personal profiles and explore how different people integrate that particular tool into their **personal productivity system**. 
@@ -22,7 +23,7 @@ So follow the links to the personal profiles and explore how different people in
 You'll quickly find that each such system is unique. Each could help you get started.
 
 ## ... and their practices
-Each person's personal productivity system is different as it is not just composed of tools - they include *practices*, too. There are probably hundreds of productivity practices: we currently some of them in the [[Practices]] menu. 
+Each person's personal productivity system is different as it is not just composed of tools - they include *practices*, too. There are probably hundreds of productivity practices: we currently describe ?? of them in the [[Practices]] menu. 
 
 All thinking tools support one or some of these practices to some degree, so choosing the right tool depends partly on identifying which practices matter most to you, and which tool supports those practices best.
 
@@ -36,7 +37,6 @@ Enjoy!
 
 ## Revision Notes
 
-* Notes
-	* NN = total number of participants who have submitted pesonal profiles
-	* TT = total number of Tool files
-	* PP = total number of Practice files
+* NN = total number of participants who have submitted pesonal profiles
+* TT = total number of Tool files
+* PP = total number of Practice files
