@@ -7,7 +7,7 @@ This is unlikely to be an easy balance to find, as:
 * the people *contributin*g this data know the tools well (and so will generally prefer granularity). 
 * but *this map is aimed at newcomers*, for whom usability is more important as they try and find their way through this landscape.
 
-# Version 1
+## Version 1
 
 In version 1 of this site:
 

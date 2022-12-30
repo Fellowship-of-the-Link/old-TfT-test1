@@ -1,5 +1,7 @@
 # Project plan 
 
+This is currently version 1 of the site. 
+
 ## Version 0: define, create mockup
 
 ### At a glance: Peter, Bill & Mathew knock the basic idea around until it's ready for v1
@@ -27,23 +29,24 @@
 
 ### Two activities in parallel:
 
-* Run a wider discussion with early adopters from FoTL/OGM community about the scoring dimensions, and **achieve a consensus**
-* get basic code working and test it, with all providing data on their favourite tools 
+* Open our discussion about the scoring dimensions to early adopters from FoTL/OGM community and try to get a consensus (see [[measuring thinking tools]]) 
+* get the basic code working and test it
+* all early adopters provide personal profiles and contribute content to Tool and Practice pages 
 
 When these two activities converge we will have Version 2.
 
 ### ToDo
 
-* achieve consensus on dimensions on airtable
+* achieve consensus on dimensions 
 * The site actually works somewhat:
 	* tool and practice files auto-populated with excerpts from personal profiles
 	* data from personal profiles added to datastore
 	* spidergraph auto-updated from datastore (ideally)
-	* homepage - see [[homepage spidergraph proposal]]: with embedded spidergraph (without user input form)
+	* homepage features spidergraph - see [[homepage spidergraph proposal]] (but probably without user input form)
 	* [[404 page process]] 
 		* "A better 404 page" - already done
 		* Automated template-driven page creation - if possible, otherwise for a later version
-	* create [[known issues]] file
+	* create [[known issues]] file if necessary (probable)
 * test above using content from participants 
 	* people profiles by all participants, using agreed dimensions, with support if needed
 	* necessary tool and practice files edited
@@ -51,7 +54,7 @@ When these two activities converge we will have Version 2.
 
 ## Version 2:  Friends of friends
 
-* Widen the circle of invitees to other people we know interested in the field. see Blog: [[2. Mapping the thinking tool landscape]] & [[3. Why you probably won’t use that thinking tool the same way as anyone else]]
+* Widen the circle of invitees to other people we know interested in the field
 * assess interest, support submitters, refine site, system & documentation
 
 We might do this several times before the site is ready for...

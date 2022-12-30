@@ -40,13 +40,7 @@ See all [[People]].
 * [[Use]] this site
 * [[Contribute]] to or [Comment on]([[comment on this site's content]]) this site
 
-
 ---
 
-*version control*:
+## Revision Notes
 
-* this is version 0
-* required for next version: confirm architecture, then page structure
-
-_comments about version control:_
----
