@@ -2,14 +2,14 @@
 
 ## About this page
 
-*ML:* we ([[Mathew Lowry]],  [[Peter Kaminski]], [[Bill Anderson]])  had a great chat as we prepared this site for phase 1 on the difference in philosophy between wikis and blogging. We decided to write something together on it using massive.wiki, to explore the issue by writing about it and to test he various collaboration Contribute and Commenting options we are proposing to this site's contributors. Key links:
+*ML:* we ([[Mathew Lowry]],  [[Peter Kaminski]], [[Bill Anderson]])  had a great chat as we prepared version 1 of this site on the difference in philosophy between wikis and blogging. We decided to write something together on it using massive.wiki, to explore the issue by writing about it and to test he various collaboration Contribute and Commenting options we are proposing to this site's contributors. Key links:
 
 * this page is being discussed on Mattermost: https://chat.collectivesensecommons.org/agora/pl/cjjtx46exjrh3czajguek3r6ur
 * it can also be commented on and developed according to the ideas set out in [[comment on this site's content]]
 
 *ML:* I am keenly aware, as I write this opening paragraph of this newly created page, that **I'm writing this like a blog post** -  for one thing, I'm labelling each paragraph as 'mine', which is a very blogger* thing to do (* a polite way of saying 'author egocentric'). By the time we show this to more people, however, this content will have been **wikified through collaboration**, and this paragraph may be gone. 
 
-*ML:* But not, perhaps, forgotten - there may be an early version of this page kept somewhere, because our discussion started with version control and permanence in massive.wiki: should previous versions of a wiki page be made available? Which ones? How? Does it matter if visitors to an old version cannot find the latest one? Who does it matter to?
+*ML:* But not, perhaps, forgotten - there may be an early version of this page kept somewhere, because our discussion started when we considered *version control and permanence in massive.wiki*: should previous versions of a wiki page be made available? Which ones? How? Does it matter if visitors to an old version cannot find the latest one? Who does it matter to?
 
 ## *ML:* Version control
 
@@ -36,9 +36,9 @@ Co-editing this page will hopefully surface an answer. To launch and explore tha
 
 Of course, blog posts do get updates, but in the blogosphere it was always a matter of honour to explicitly state any 'major version' updates upfront, to avoid accusations of  surreptiously editing "what I said 3 years ago" to better match today's reality. With the reverse chrono presentation of blog posts, many bloggers will simply write a new post when their views change rather than update an old post few people will read anyway.
 
-Pesonally, as a blogger, I find writing a new post just to update an old one is a pretty bad solution: after all, the old one remains online unchanged. Of course I could add a quick update to the old post pointing to the new one... but what happens when I have 5 versions of the same post? When I add a sixth I'll have to update all 5 manually!
+Personally, as a blogger, I find writing a new post just to update an old one is a pretty bad solution: after all, the old one remains online unchanged. Of course I could add a quick update to the old post pointing to the new one... but what happens when I have 5 versions of the same post? When I add a sixth I'll have to update all 5 manually!
 
-Better, perhaps, to have a canonical blog post which sets out the current version of "*what I think about this thing*", date-stamped with the last major version, with an auto-link back to previous versions. Ideally all previous versions auto-link not just backward, but also forward to both the next and canonical versions. 
+Better, perhaps, to have **a canonical blog post which sets out the current version of "*what I think about this thing*", date-stamped with the last major version,** with an auto-link back to previous versions. Ideally all previous versions auto-link not just backward, but also forward to both the next and canonical versions. 
 
 ## Wiki pages
 
@@ -46,7 +46,9 @@ Better, perhaps, to have a canonical blog post which sets out the current versio
 
 *WLA (2022-12-11):* It seems to me that on wikis the authorship is not as important as the text of the wiki pages, and, perhaps, how well that content is written and cited.
 
-*ML:* They are also not time-critical in nature and so are presented as part of an interconnected body of knowledge organised more by topic than creation date (how often do you visit Wikipedia to view it's "latest page"?). So how would version control and permanent versions look like in this context?
+*ML:* They are also not time-critical in nature and so are presented as part of an interconnected body of knowledge organised more by topic than creation date (how often do you visit Wikipedia to view it's "latest page"?). 
+
+So how would version control and permanent versions look like in this context?
 
 tbc
 
