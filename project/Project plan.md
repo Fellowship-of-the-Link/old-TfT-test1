@@ -1,15 +1,13 @@
 # Project plan 
 
-This is currently version 0 of the site. 
+## Phase 0: define, create mockup
 
-## Version 0: define, create mockup
-
-### At a glance: Peter, Bill & Mathew knock the basic idea around until it's ready for v1
+### At a glance: Peter, Bill & Mathew knock the basic idea around until it's ready for p1
 
 * Create a first set of scoring dimensions, which will mean aligning various tables developed by various people 
 	* martyr draft (ML) - done
 	* transferred to airtable draft (all) - done
-	* to [[measuring thinking tools]] for comments in v1
+	* to [[measuring thinking tools]] for comments in p1
 * Get ML up to speed on massive.wiki (herculanean team effort)
 * site mockup (ML): no actual code, but shows how it will look  
 	* first draft site structure 
@@ -18,14 +16,14 @@ This is currently version 0 of the site.
 ### ToDo:
 * vision statement (all)
 * rewrite prototype content according to this plan (ML)
-* create spidergraph mockup v0, add to home page (ML) - done
-* Get Documentation to v1-ready state, including
+* create spidergraph mockup p0, add to home page (ML) - done
+* Get Documentation to p1-ready state, including
 	* basic massive.wiki documentation
 	* [[Contribute]] - to check
 	* [[comment on this site's content]] - to check
 
 
-## Version 1:  FoTL/OGM early adopters
+## Phase 1:  FoTL/OGM early adopters
 
 ### Two activities in parallel:
 
@@ -33,7 +31,7 @@ This is currently version 0 of the site.
 * get the basic code working and test it
 * all early adopters provide personal profiles and contribute content to Tool and Practice pages 
 
-When these two activities converge we will have Version 2.
+When these two activities converge we will have Phase 2.
 
 ### ToDo
 
@@ -52,14 +50,14 @@ When these two activities converge we will have Version 2.
 	* necessary tool and practice files edited
 * refine site and documentation in light of experience and feedback, creating v2 of both. (understandable by friends of friends)
 
-## Version 2:  Friends of friends
+## Phase 2:  Friends of friends
 
 * Widen the circle of invitees to other people we know interested in the field
 * assess interest, support submitters, refine site, system & documentation
 
 We might do this several times before the site is ready for...
 
-## Version 3: Full launch
+## Phase 3: Full launch
 The site is promoted by all contributors.
 
 Details TBD.
