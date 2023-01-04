@@ -1,6 +1,6 @@
 # Project plan 
 
-This is currently version 1 of the site. 
+This is currently version 0 of the site. 
 
 ## Version 0: define, create mockup
 
