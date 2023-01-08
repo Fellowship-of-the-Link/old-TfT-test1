@@ -26,12 +26,12 @@ This particular pilot project is working with massive.wiki. Future projects migh
 
 You'll find examples of three types of file:
 
-* a **personal profile** - eg [[Mathew Lowry]]. Ideally everyone who rates the tools for the spidergraph provides something like this, as each profile ties the other two types of file together with a story about how a real person actually uses them. It includes 
+* a **personal profile** - e.g., [[Mathew Lowry]]. Ideally everyone who rates the tools for the spidergraph provides something like this, as each profile ties the other two types of file together with a story about how a real person actually uses them. It includes 
 	* a series of bullets mentioning different tools and techniques; these will appear automatically in the appropriate tool and technique pages (below)
 	* the scores they give each tool they use; these are automatically added to the datastore which powers the spidergraph on the [home page]([[README]]) 
 * **two types of zettelkasten overview**
-	* **pratice:** this describes a thinking tool practice, eg [[inbox curation]] It includes a brief description, link(s) and an automatically created list of the people who use this practice, along with the associated bullet from their profile describing *how* they use it
-	* **tool**: similar to a practice, but describes a thinking tool, eg [[roam]] or [[Pocket]], and
+	* **pratice:** this describes a thinking tool practice, e.g., [[inbox curation]] It includes a brief description, link(s) and an automatically created list of the people who use this practice, along with the associated bullet from their profile describing *how* they use it
+	* **tool**: similar to a practice, but describes a thinking tool, e.g., [[roam]] or [[Pocket]], and
 		* the automated list of people profiles which use it, along with the associated bullet from their profile describing how they use it
 		* **the scores they gave it** (only actual scores included; blanks are not imported).
 
