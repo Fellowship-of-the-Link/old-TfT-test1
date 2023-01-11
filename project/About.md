@@ -47,9 +47,9 @@ The 2nd blog post ([[2. Mapping the thinking tool landscape]]) has a visual show
 
 ![](https://cdn-images-1.medium.com/max/1000/1*RFMbqtFqw7xHmotEmNFqEw.png)
 
-**Personal profiles are key** because newcomers need stories as well as scores, so each profile gives a newcomer someone to learn from: *How do they combine Which tools and practice together*? 
+**Personal profiles are key because newcomers need stories as well as scores**. Each profile therefore tells the reader: ***How** do this person combine **Which** Tools and Practices together*? 
 
-And in every file, of course, each mention of any tool or practice links to the zettelkasten overview for that tool or practice, where users get both:
+And in every file, of course, each mention of a Tool or Practice links to the zettelkasten overview for that Tool or Practice, where users can discover:
 
 * a description of the tool / practice
 * links to explore how different people use it, and the scores they gave to it

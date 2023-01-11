@@ -45,5 +45,6 @@ See all [[People]].
 ## Revision Notes
 
 2023-01-11: (ML) radar diagram upgraded. 
+
 2023-01-08: (WLA) radar diagram only shows 4 tools. need to edit original image and delete the first "Tool 1" text line.
  - (WLA) relocated radar diagram to the `_attachments` folder
