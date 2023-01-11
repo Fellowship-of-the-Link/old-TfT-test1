@@ -2,13 +2,12 @@
 
 **This pilot, spawned by [Fellowship of the Link discussions](https://chat.collectivesensecommons.org/agora/pl/whw9kgizb7nifqbe6znu5cgrrr), is creating a decentralised map of thinking tools to demonstrate decentralised solutions to collective intelligence.** 
 
-## Vision statement (tbd)
+## Vision statement
 
----
-
-*ML first draft follows*
+_tbd_
 
 ## Introduction
+
 As explained in the first blog post  ([Building collective intelligence from social knowledge graphs](https://medium.com/@mathewlowry/building-collective-intelligence-from-social-knowledge-graphs-e3a465852e8b)), this is hopefully the first in *"a series of pilot projects where:*
 
 - *the tools we have today are used to link ideas in a specific domain (and the people behind them) together in a decentralised way
@@ -16,11 +15,11 @@ As explained in the first blog post  ([Building collective intelligence from soc
 - *we learn from the experience to create a new iteration of slightly better tools as a result, along with a slightly bigger audience,*
 -  *rinse, repeat.*"
 
-This particular pilot project is working with massive.wiki. Future projects might try other solutions, or expand this one to work with them.
+This particular pilot project is working with [[Massive Wiki]]. Future projects might try other solutions, or expand this one to work with them.
 
 **Why thinking tools?** See the third planned blog post: [[3. Why you probably won’t use that thinking tool the same way as anyone else]].
 
-**And how will it work?** See the 2nd: [[2. Mapping the thinking tool landscape]], or simply click around.
+**And how will it work?** See the second planned blog post: [[2. Mapping the thinking tool landscape]], or simply click around.
 
 ## How will this map be structured?
 
@@ -31,12 +30,11 @@ You'll find examples of three types of file:
 	* the scores they give each tool they use; these are automatically added to the datastore which powers the spidergraph on the [home page]([[README]]) 
 * **two types of zettelkasten overview**
 	* **pratice:** this describes a thinking tool practice, e.g., [[inbox curation]] It includes a brief description, link(s) and an automatically created list of the people who use this practice, along with the associated bullet from their profile describing *how* they use it
-	* **tool**: similar to a practice, but describes a thinking tool, e.g., [[roam]] or [[Pocket]], and
+	* **tool**: similar to a practice, but describes a thinking tool, e.g., [[Roam]] or [[Pocket]], and
 		* the automated list of people profiles which use it, along with the associated bullet from their profile describing how they use it
 		* **the scores they gave it** (only actual scores included; blanks are not imported).
 
 The 2nd blog post ([[2. Mapping the thinking tool landscape]]) has a visual showing how these all link together:
- 
 
 ![](https://cdn-images-1.medium.com/max/1000/1*RFMbqtFqw7xHmotEmNFqEw.png)
 
@@ -45,4 +43,4 @@ The 2nd blog post ([[2. Mapping the thinking tool landscape]]) has a visual show
 And in every file, of course, each mention of any tool or practice links to the zettelkasten overview for that tool or practice, where users get both:
 
 * a description of the tool / practice
-* links to explore how different people use it, and the scores they gave to it
+* links to explore how different people use it, and the scores they gave it

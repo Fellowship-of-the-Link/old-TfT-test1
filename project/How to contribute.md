@@ -2,7 +2,7 @@
 
 **There are several ways to contribute to the map.**
 
-One of the key ideas underpining collective intelligence is to not force everyone to contribute their knowledge in the same way.
+One of the key ideas underpinning collective intelligence is to not force everyone to contribute their knowledge in the same way.
 
 So you can:
 
@@ -11,7 +11,7 @@ So you can:
 * suggest an edit by simply [contacting us]([[Contact us]]) (against the spirit of collective intelligence, so not our favourite)
 * become a massive.wiki contributor (very cool!)
 
-Note: However you contribute your personal profile,  you'll need to know more about [[measuring thinking tools]].
+Note: However you contribute your personal profile,  you'll need to know more about [[How we measure thinking tools]].
 
 ## Send in your files
 
@@ -33,7 +33,7 @@ If your personal profile mentions a tool or technique not already present in the
 
 Would you like to improve an existing tool or practice page? Several options exist:
 
-* [[comment on this site's content]]
+* [[How to comment]]
 * go to the page and click *the "download this page in markdown format"* link, edit the file on your machine and submit it (see above).
 * become a massive.wiki contributor (below - recommended)
 

@@ -8,17 +8,20 @@ Use `# Headers` to separate sections.
 
 Instead of bullet lists, use plain lines, with two space characters added to the end of lines. That makes a line break. (Otherwise, the lines will wrap onto one line.)
 -->
-# Site Navigation
+#
 
 [[README|Home]]  
+
+# The Map
+
 [[People]]  
 [[Tools]]  
 [[Practices]]  
 
-# Project
+# The Project
 
 [[Project plan]]    
-[[Use]]  
-[[Contribute]]  
-[[comment on this site's content]]  
-[[About]]  
+[[How to use this site]]  
+[[How to contribute]]  
+[[How to comment]]  
+[[About this project]]  
