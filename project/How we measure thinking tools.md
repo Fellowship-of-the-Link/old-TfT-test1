@@ -11,7 +11,7 @@ This is unlikely to be an easy balance to find, as:
 
 In version 1 of this site:
 
-* we are happy to discuss and improve the following dimensions while the code is being developed for version 2 - see [[Project plan]] and the several ways to [[comment on this site's content]]
+* we are happy to discuss and improve the following dimensions while the code is being developed for version 2 - see [[Project plan]] and [[How to comment]]
 * we've tried to find a balance and keep the number of dimensions to a dozen or less. 
 
 

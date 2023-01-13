@@ -8,7 +8,7 @@ This is unlikely to be an easy balance to find, as:
 
 # Version 0: martyr draft
 
-So version 0, below, tried to keep the number of dimensions to a minimum. As its unofficial title suggests, it was designed to spark discussion and it did. With version 1, this conversation will continue on airtable - see [[airtable guidelines]].
+So version 0, below, tried to keep the number of dimensions to a minimum. As its unofficial title suggests, it was designed to spark discussion and it did. With version 1, this conversation will continue, in a way to be defined.
 
 | **Axis**           | **Definition**                                                                    | **To score highly**                                                                                                                           |     |     |     |     |
 | ------------------ | --------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- | --- | --- | --- | --- |
@@ -23,12 +23,3 @@ So version 0, below, tried to keep the number of dimensions to a minimum. As its
 | Community          | Is there a supportive community around the tool                                   | Helpful community, active 3rd party developers, etc.                                                                                          |     |     |     |     |
 | Cost               | How expensive is the tool                                                         | Free, or at least a v. useful free version in a freemium model                                                                                |     |     |     |     |
 | Data sovereignty   | Who owns your data?                                                               | Your files on your PC.                                                                                                                        |     |     |     |     |
-| 
-
----
-
-### Revision Notes
-
-The above were transferred to an airtable, where the conversation is ongoing.
-
-See also: [[airtable guidelines]]
