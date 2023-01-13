@@ -1,6 +1,6 @@
 # How to use this site
 
-**This site presents the collective knowledge of NN?? [[People]] about the thinking tools they use.** 
+**This site presents the collective knowledge of [NN* People]([[People]]) about the thinking tools they use.** 
 
 Here's how to tap that knowledge.
 
@@ -15,7 +15,7 @@ We're currently working on a form where you can input your own personal preferen
 More on those dimensions: [[How we measure thinking tools]]
 
 ## Explore your shortlisted tools... 
-Some TT tools can be found via the [[Tools]] menu, which points to each tool's Tool Page.  This briefly describes the tool and includes brief excerpts from - and links to - the personal profiles of all users who use that tool.
+Some TT* tools can be found via the [[Tools]] menu, which points to each tool's Tool Page.  This briefly describes the tool and includes brief excerpts from - and links to - the personal profiles of all users who use that tool.
 
 ## ... and their users...
 So follow the links to the personal profiles and explore how different people integrate that particular tool into their **personal productivity system**. 
@@ -23,7 +23,7 @@ So follow the links to the personal profiles and explore how different people in
 You'll quickly find that each such system is unique. Each could help you get started.
 
 ## ... and their practices
-Each person's personal productivity system is different as it is not just composed of tools - they include *practices*, too. There are probably hundreds of productivity practices: we currently describe ?? of them in the [[Practices]] menu. 
+Each person's personal productivity system is different as it is not just composed of tools - they include *practices*, too. There are probably hundreds of productivity practices: we currently describe PP* of them in the [[Practices]] menu. 
 
 All thinking tools support one or some of these practices to some degree, so choosing the right tool depends partly on identifying which practices matter most to you, and which tool supports those practices best.
 
@@ -33,10 +33,14 @@ Each practices is described in a Practices page. Like Tool pages, they include a
 
 Enjoy!
 
+( * ) PS In version 1 (see [[Project plan]]) we don't have a working application to automatically calculate the following key metrics:
+
+* NN = total number of Participants who have submitted personal profiles
+* TT = total number of Tool files
+* PP = total number of Practice files
+
 ---
 
 ## Revision Notes
 
-* NN = total number of participants who have submitted pesonal profiles
-* TT = total number of Tool files
-* PP = total number of Practice files
+2023-01-11: (ML): added postscript explanation re: metrics
