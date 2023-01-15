@@ -35,3 +35,16 @@ I suggest:
 ```
 
 (page title / tag)
+
+-----
+### 2023-01-15 Some thoughts and comments by [[Bill Anderson|Bill]]
+
+Whilst trying to construct a simple and usable Massive Wiki vault I re-read this internal blog post and have some thoughts.  
+
+- Pete's comment above "... get rid of `files` folder": perhaps it is OK in a MaSVF wiki to have a `files` folder that is the one bucket for all newly created files?  
+- perhaps the simple "Repatterning page titles and tags" suggestion is a primary organizing principle?  
+- and also keep an `_attachments` folder for all (all?) the non-Markdown formatted files?  
+
+But what about all those other folders that I have created to organize my files? Yeah, that is a good question. But once I start thinking like this (one folder for Markdown files) I am reminded of the [Hugo](https://gohugo.io) framework and its directory organization for the primary `content` directory and other folders for associated non-Markdown files, and the designated `public` directory for the html webfiles. This framework has some similarities to the current MassiveWikiBuilder (MWB) model. (Note: I think the MWB framework is better for Obsidian vaults since all Markdown in the vault is rendered as HTML.)  
+
+- none of this resolves Pete's questions about one flat file space. One flat folder for a vault will result in a very long list in the left-hand sidebar. Does this force us to rely on search and tags to find pages?
