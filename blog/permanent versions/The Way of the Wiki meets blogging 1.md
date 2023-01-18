@@ -81,7 +81,7 @@ tbc
 *ML:* Note that almost all of the above can be done easily manually, which is what we'll have to do for this file - ie:
 * create v1 (*The Way of the Wiki meets blogging*), with the following version control section in the Revision Notes
 	* this is version: current
-	* here is the [current version]([[The Way of the Wiki meets blogging]]) 
+	* here is the [current version]([[Wiki practice meets blogging]]) 
 	  *(aware this looks odd, but as this is copied each time a new major version is created it will save a lot of time)*
 	* previous version: n/a
 * when it is time to work on v2
@@ -89,22 +89,22 @@ tbc
 		* move it into the permanent versions subfolder
 		* edit its version control section (*italic* = manual edits)
 			* this is version: *1*
-			* here is the [current version]([[The Way of the Wiki meets blogging]])
+			* here is the [current version]([[Wiki practice meets blogging]])
 			* previous version: n/a
 	* edit the current version to link back to v1 in its version control section (*italic* = manual edits)
 		* this is version: current
-		* here is the [current version]([[The Way of the Wiki meets blogging]]) 
+		* here is the [current version]([[Wiki practice meets blogging]]) 
 		* previous version: [*version 1*]([[The Way of the Wiki meets blogging-1]])
 * when it is time to work on v3
 	* duplicate the current file, creating (*The Way of the Wiki meets blogging-2*), and 
 		* move it into the permanent versions subfolder
 		* edit its version control section
 			* this is version: *2*
-			* here is the [current version]([[The Way of the Wiki meets blogging]])
+			* here is the [current version]([[Wiki practice meets blogging]])
 			* previous version: [version 1]([[The Way of the Wiki meets blogging-1]])
 	* edit the current version
 		* this is version: current
-		* here is the [current version]([[The Way of the Wiki meets blogging]]) 
+		* here is the [current version]([[Wiki practice meets blogging]]) 
 		* previous version: [*version 2*]([[The Way of the Wiki meets blogging-1]])
 
 Hence the creation of a major version entails the following manual processes
@@ -120,5 +120,5 @@ As set out above, I'm testing this with versions 1 & 2 before pushing both to th
 
 * version control (currently managed manually) 
 	* this is version: 1
-	* here is the [current version]([[The Way of the Wiki meets blogging]])
+	* here is the [current version]([[Wiki practice meets blogging]])
 	* previous version: n/a

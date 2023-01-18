@@ -1,4 +1,4 @@
-# The Way of the Wiki meets blogging
+# Wiki practice meets blogging
 
 ## About this page
 
@@ -87,7 +87,7 @@ One problem I see here is that the Editor must decide to create a major version 
 
 * create v1 (*The Way of the Wiki meets blogging*), with the following version control section in the Revision Notes
 	* this is version: current
-	* here is the [current version]([[The Way of the Wiki meets blogging]]) 
+	* here is the [current version]([[Wiki practice meets blogging]]) 
 	  *(aware this looks odd, but as this is copied each time a new major version is created it will save a lot of time)*
 	* previous version: n/a
 * when it is time to work on v2
@@ -95,11 +95,11 @@ One problem I see here is that the Editor must decide to create a major version 
 		* move it into the permanent versions subfolder
 		* edit its version control section (*italic* = manual edits)
 			* this is version: *1*
-			* here is the [current version]([[The Way of the Wiki meets blogging]])
+			* here is the [current version]([[Wiki practice meets blogging]])
 			* previous version: n/a
 	* edit the current version to link back to v1 in its version control section (*italic* = manual edits)
 		* this is version: current
-		* here is the [current version]([[The Way of the Wiki meets blogging]]) 
+		* here is the [current version]([[Wiki practice meets blogging]]) 
 		* previous version: [*version 1*]([[The Way of the Wiki meets blogging-1]])
 * when it is time to work on v3
 	* duplicate the current file, creating (*The Way of the Wiki meets blogging-2*), and 
@@ -107,11 +107,11 @@ One problem I see here is that the Editor must decide to create a major version 
 		* add a "snapshot warning" at the top of the page pointing to version control section
 		* edit its version control section
 			* this is version: *2*
-			* here is the [current version]([[The Way of the Wiki meets blogging]])
+			* here is the [current version]([[Wiki practice meets blogging]])
 			* previous version: [version 1]([[The Way of the Wiki meets blogging-1]])
 	* edit the current version
 		* this is version: current
-		* here is the [current version]([[The Way of the Wiki meets blogging]]) 
+		* here is the [current version]([[Wiki practice meets blogging]]) 
 		* previous version: [*version 2*]([[The Way of the Wiki meets blogging-1]])
 
 Hence the creation of a major version entails the following manual processes:
@@ -129,7 +129,7 @@ As set out above, I'm testing this with versions 1 & 2 before pushing both to th
 
 * version control (currently managed manually) 
 	* this is version: current
-	* here is the [current version]([[The Way of the Wiki meets blogging]])
+	* here is the [current version]([[Wiki practice meets blogging]])
 	* previous version: [version 1]([[The Way of the Wiki meets blogging 1]]): [[The Way of the Wiki meets blogging 1]]
 * key changes in this version:
 	* for some reason hyperlinks are not working well in Obsidian for me: when I add the link to version 1 using markup's *[ linktext] ([ [ fiile] ])* format, the resulting hyperlink points to a (until then non-existent) page called "[ [The"] ]"  - I've added both to the version control section, above to illustrate
