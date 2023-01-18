@@ -1,6 +1,6 @@
 # Mathew Lowry
 
-#person
+One of the [[People]].
 
 ## About me
 

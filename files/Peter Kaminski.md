@@ -1,6 +1,6 @@
 # Peter Kaminski
 
-#person
+One of the [[People]].
 
 ## About me
 

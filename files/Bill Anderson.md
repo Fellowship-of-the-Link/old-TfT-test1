@@ -1,6 +1,6 @@
 # Bill Anderson
 
-#person
+One of the [[People]].
 
 ## About me
 
