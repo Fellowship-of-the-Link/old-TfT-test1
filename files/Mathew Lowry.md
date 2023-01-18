@@ -12,7 +12,7 @@ More, follow, subscribe & contact: <https://myhub.ai/@mathewlowry/about/>
 
 One tool which supports me in reading, note-making, writing and publishing without forcing me to invest major time in becoming a power user and/or taking expensive courses. In an ideal world it would also handle my todos and time.
 
-How close is my current system (below) to this ideal? Not at all. 
+How close is my current system (below) to this ideal? Not at all.   
 
 ## My current tools and practices
 
