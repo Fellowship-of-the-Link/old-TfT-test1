@@ -16,7 +16,7 @@ _Mapping the thinking tool landscape with collective intelligence._
 
 (demo) *Table of Tools with Number of Personal profiles mentioning it*
 
-* [[roam]]: 1
+* [[Roam]]: 1
 * [[Pocket]]: 1
 
 See all  [[Tools]].
