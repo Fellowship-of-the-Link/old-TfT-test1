@@ -87,8 +87,7 @@ One problem I see here is that the Editor must decide to create a major version 
 
 * create v1 (*The Way of the Wiki meets blogging*), with the following version control section in the Revision Notes
 	* this is version: current
-	* here is the [current version]([[The Way of the Wiki meets blogging]]) 
-	  *(aware this looks odd, but as this is copied each time a new major version is created it will save a lot of time)*
+	* here is the [current version]([[The Way of the Wiki meets blogging]]) *(aware this looks odd, but as this is copied each time a new major version is created it will save a lot of time)*
 	* previous version: n/a
 * when it is time to work on v2
 	* duplicate the file, creating (*The Way of the Wiki meets blogging-1.md*), and 
