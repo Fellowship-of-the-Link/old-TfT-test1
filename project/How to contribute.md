@@ -7,7 +7,7 @@ One of the key ideas underpinning collective intelligence is to not force everyo
 In Phase 1 of the site (see [[Project plan]]), however, we're limiting contributions to:
 
 * become a massive.wiki contributor, below (recommended)
-* suggest an edit via commenting (see [[comment on this site's content]]) 
+* suggest an edit via commenting (see [[How to comment]])
 * simply [contact us]([[Contact us]]). 
 
 ## Become a massive.wiki contributor
@@ -21,7 +21,7 @@ This site is a massive.wiki, which means you can:
 
 A full user manual is available on the [massive.wiki](http://massive.wiki) site, but in brief, you'll need:
 
-* a GitHub account, so you can fork [[this site's repository]] of files
+* a GitHub account, so you can fork [this site's repository](https://github.com/Fellowship-of-the-Link/TfT-test1) of files
 * Git on your computer, so you can 'pull' new versions of the files from the repository to your computer, and 'push' your edits back to it
 * software to edit the markdown files: we recommend Obsidian, as its "Obsidian Git" plugin supports the previous step seamlessly, but massive.wiki works whatever tool you use.
 
@@ -50,12 +50,13 @@ Would you like to improve an existing tool or practice page? Several options exi
 * go to the page and click *the "download this page in markdown format"* link, edit the file on your machine and submit it (see above).
 * become a massive.wiki contributor (above - recommended)
 
-Note: However you contribute your personal profile,  you'll need to know more about [[measuring thinking tools]].
+Note: However you contribute your personal profile,  you'll need to know more about [[How we measure thinking tools]].
 
 
 ---
 
 ## Revision Notes
 
+* 2023-01-22 (ML): fixed some broken links created by file renaming (I thought Obsidian would be immune to this?)
 * 2023-01-13 (ML): reordered and rewrote to match Phase 1. 
 

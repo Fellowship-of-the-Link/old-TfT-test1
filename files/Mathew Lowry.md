@@ -58,6 +58,6 @@ More: [All the Stuff I Think tagged Content strategy and Productivity](https://m
 
 ## Revision Notes
 
-* this is an example Personal Profile
-* consider if profiles need a hashtag, e.g. #MyProfile or #Person or whatever
-* both structure and content (particularly the Ratings) need to be revised for phase 1
+* 2023-01-22: revised to 
+	* reflect the dimensions in [[How we measure thinking tools]]
+	* include "confidence" per tool - no idea if we will use this, tbd
