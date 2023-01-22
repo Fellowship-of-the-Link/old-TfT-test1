@@ -12,7 +12,7 @@ We're currently working on a form where you can input your own personal preferen
 * ask yourself: which dimensions are most important to me?
 * take a look at the spidergraph to identify **your personal shortlist**: the tool(s) which best match those priorities.
 
-More on those dimensions: [[measuring thinking tools]]
+More on those dimensions: [[How we measure thinking tools]]
 
 ## Explore your shortlisted tools... 
 Some TT* tools can be found via the [[Tools]] menu, which points to each tool's Tool Page.  This briefly describes the tool and includes brief excerpts from - and links to - the personal profiles of all users who use that tool.

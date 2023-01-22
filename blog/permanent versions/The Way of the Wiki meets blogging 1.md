@@ -7,7 +7,7 @@
 *ML:* we ([[Mathew Lowry]],  [[Peter Kaminski]], [[Bill Anderson]])  had a great chat as we prepared this site for phase 1 on the difference in philosophy between wikis and blogging. We decided to write something together on it using massive.wiki, to explore the issue by writing about it and to test he various collaboration Contribute and Commenting options we are proposing to this site's contributors. Key links:
 
 * this page is being discussed on Mattermost: https://chat.collectivesensecommons.org/agora/pl/cjjtx46exjrh3czajguek3r6ur
-* it can also be commented on and developed according to the ideas set out in [[comment on this site's content]]
+* it can also be commented on and developed according to the ideas set out in [[How to comment]]
 
 *ML:* I am keenly aware, as I write this opening paragraph of this newly created page, that **I'm writing this like a blog post** -  for one thing, I'm labelling each paragraph as 'mine', which is a very blogger* thing to do (* a polite way of saying 'author egocentric'). By the time we show this to more people, however, this content will have been **wikified through collaboration**, and this paragraph may be gone. 
 
@@ -81,7 +81,7 @@ tbc
 *ML:* Note that almost all of the above can be done easily manually, which is what we'll have to do for this file - ie:
 * create v1 (*The Way of the Wiki meets blogging*), with the following version control section in the Revision Notes
 	* this is version: current
-	* here is the [current version]([[The Way of the Wiki meets blogging]]) 
+	* here is the [current version]([[Wiki practice meets blogging]]) 
 	  *(aware this looks odd, but as this is copied each time a new major version is created it will save a lot of time)*
 	* previous version: n/a
 * when it is time to work on v2
@@ -89,22 +89,22 @@ tbc
 		* move it into the permanent versions subfolder
 		* edit its version control section (*italic* = manual edits)
 			* this is version: *1*
-			* here is the [current version]([[The Way of the Wiki meets blogging]])
+			* here is the [current version]([[Wiki practice meets blogging]])
 			* previous version: n/a
 	* edit the current version to link back to v1 in its version control section (*italic* = manual edits)
 		* this is version: current
-		* here is the [current version]([[The Way of the Wiki meets blogging]]) 
+		* here is the [current version]([[Wiki practice meets blogging]]) 
 		* previous version: [*version 1*]([[The Way of the Wiki meets blogging-1]])
 * when it is time to work on v3
 	* duplicate the current file, creating (*The Way of the Wiki meets blogging-2*), and 
 		* move it into the permanent versions subfolder
 		* edit its version control section
 			* this is version: *2*
-			* here is the [current version]([[The Way of the Wiki meets blogging]])
+			* here is the [current version]([[Wiki practice meets blogging]])
 			* previous version: [version 1]([[The Way of the Wiki meets blogging-1]])
 	* edit the current version
 		* this is version: current
-		* here is the [current version]([[The Way of the Wiki meets blogging]]) 
+		* here is the [current version]([[Wiki practice meets blogging]]) 
 		* previous version: [*version 2*]([[The Way of the Wiki meets blogging-1]])
 
 Hence the creation of a major version entails the following manual processes
@@ -120,5 +120,5 @@ As set out above, I'm testing this with versions 1 & 2 before pushing both to th
 
 * version control (currently managed manually) 
 	* this is version: 1
-	* here is the [current version]([[The Way of the Wiki meets blogging]])
+	* here is the [current version]([[Wiki practice meets blogging]])
 	* previous version: n/a

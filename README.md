@@ -8,8 +8,8 @@ _Mapping the thinking tool landscape with collective intelligence._
 
 (demo) *7 Tools for Thought scored using the current 11 dimensions. Data extracted from NN personal profiles.*
 
-* **Add your own stories, tools and techniques: [[Contribute]]**
-* Comment/contribute to the above dimensions: [[measuring thinking tools]]
+* **Add your own stories, tools and techniques: [[How to contribute]]**
+* Comment/contribute to the above dimensions: [[How we measure thinking tools]]
 
 
 ## Most popular Tools
@@ -36,9 +36,9 @@ See all [[People]].
 
 ## Get help and Join in
 
-* [[About]] this site
-* [[Use]] this site
-* [[Contribute]] to or [Comment on]([[comment on this site's content]]) this site
+* [[About this project]]
+* [[How to use this site]]
+* [[How to contribute]] to or [Comment on]([[How to comment]]) this site
 
 ---
 

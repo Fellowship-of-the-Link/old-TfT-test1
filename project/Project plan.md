@@ -7,7 +7,7 @@
 * Create a first set of scoring dimensions, which will mean aligning various tables developed by various people 
 	* martyr draft (ML) - done
 	* transferred to airtable draft (all) - done
-	* to [[measuring thinking tools]] for comments in p1
+	* to [[How we measure thinking tools]] for comments in p1
 * Get ML up to speed on massive.wiki (herculanean team effort)
 * site mockup (ML): no actual code, but shows how it will look  
 	* first draft site structure 
@@ -19,15 +19,15 @@
 * create spidergraph mockup p0, add to home page (ML) - done
 * Get Documentation to p1-ready state, including
 	* basic massive.wiki documentation
-	* [[Contribute]] - to check
-	* [[comment on this site's content]] - to check
+	* [[How to contribute]] - to check
+	* [[How to comment]] - to check
 
 
 ## Phase 1:  FoTL/OGM early adopters
 
 ### Two activities in parallel:
 
-* Open our discussion about the scoring dimensions to early adopters from FoTL/OGM community and try to get a consensus (see [[measuring thinking tools]]) 
+* Open our discussion about the scoring dimensions to early adopters from FoTL/OGM community and try to get a consensus (see [[How we measure thinking tools]]) 
 * get the basic code working and test it
 * all early adopters provide personal profiles and contribute content to Tool and Practice pages 
 
@@ -44,7 +44,7 @@ When these two activities converge we will have Phase 2.
 	* [[404 page process]] 
 		* "A better 404 page" - already done
 		* Automated template-driven page creation - if possible, otherwise for a later version
-	* create [[known issues]] file if necessary (probable)
+	* create a project tracker
 * test above using content from participants 
 	* people profiles by all participants, using agreed dimensions, with support if needed
 	* necessary tool and practice files edited

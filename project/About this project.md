@@ -2,11 +2,9 @@
 
 **This pilot, spawned by [Fellowship of the Link discussions](https://chat.collectivesensecommons.org/agora/pl/whw9kgizb7nifqbe6znu5cgrrr), is creating a decentralised map of thinking tools to demonstrate decentralised solutions to collective intelligence.** 
 
-## Vision statement (tbd)
+## Vision statement
 
----
-
-*ML first draft follows*
+_tbd_
 
 ## Introduction
 As explained in [Building collective intelligence from social knowledge graphs](https://medium.com/@mathewlowry/building-collective-intelligence-from-social-knowledge-graphs-e3a465852e8b), this is hopefully the first in *"a series of pilot projects where:*
@@ -16,7 +14,7 @@ As explained in [Building collective intelligence from social knowledge graphs](
 - *we learn from the experience to create a new iteration of slightly better tools as a result, along with a slightly bigger audience,*
 -  *rinse, repeat.*"
 
-This particular pilot project is working with massive.wiki. Future projects might try other solutions, or expand this one to work with them.
+This particular pilot project is working with [[Massive Wiki]]. Future projects might try other solutions, or expand this one to work with them.
 
 More background: see [[2. Mapping the thinking tool landscape]].
 
@@ -44,7 +42,6 @@ These are both zettelkasten overviews:
 
 The 2nd blog post ([[2. Mapping the thinking tool landscape]]) has a visual showing how these all link together and how the scores submitted via Personal Profiles are aggregated into a spidergraph, which provides a sort of "executive summary" entry Point on the home page:
  
-
 ![](https://cdn-images-1.medium.com/max/1000/1*RFMbqtFqw7xHmotEmNFqEw.png)
 
 **Personal profiles are key because newcomers need stories as well as scores**. Each profile therefore tells the reader: ***How** do this person combine **Which** Tools and Practices together*? 
@@ -52,6 +49,6 @@ The 2nd blog post ([[2. Mapping the thinking tool landscape]]) has a visual show
 And in every file, of course, each mention of a Tool or Practice links to the zettelkasten overview for that Tool or Practice, where users can discover:
 
 * a description of the tool / practice
-* links to explore how different people use it, and the scores they gave to it
+* links to explore how different people use it, and the scores they gave it
 
 More: [[Use]]
