@@ -50,12 +50,13 @@ Would you like to improve an existing tool or practice page? Several options exi
 * go to the page, add ".md" at the end of the web address to view the Markdown, copy and paste the text or use "save as" to get it onto your computer, edit the file on your machine and submit it (see above)
 * become a Massive Wiki contributor (above - recommended)
 
-Note: However you contribute your personal profile,  you'll need to know more about [[measuring thinking tools]].
+Note: However you contribute your personal profile,  you'll need to know more about [[How we measure thinking tools]].
 
 
 ---
 
 ## Revision Notes
 
+* 2023-01-22 (ML): fixed some broken links created by file renaming (I thought Obsidian would be immune to this?)
 * 2023-01-13 (ML): reordered and rewrote to match Phase 1. 
 

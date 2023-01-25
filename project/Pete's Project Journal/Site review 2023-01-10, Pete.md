@@ -2,7 +2,7 @@
 
 I'm doing a review of the site, partly for the "Check/Complete" tasks in the task tracker, and partly with the idea to generally tidy up the site.
 
-Some thoughts:
+Some thoughts:   
 - use consistent capitalization for pages
 	- tools and practices may have separate rules?
 - use ISO 8601 date format
@@ -14,7 +14,7 @@ Some thoughts:
 - move `data` files to `_attachments`
 - move `files` pages to root, get rid of `files` folder
 - move `project` pages to root, get rid of `project` folder
-- see "Repatterning page titles and tags" below
+- see "Repatterning page titles and tags" below  
 
 ## Repatterning page titles and tags
 
