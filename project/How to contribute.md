@@ -6,7 +6,7 @@ One of the key ideas underpinning collective intelligence is to not force everyo
 
 In Phase 1 of the site (see [[Project plan]]), however, we're limiting contributions to:
 
-* suggest an edit to existing pages via commenting (see [[comment on this site's content]])
+* suggest an edit to existing pages via commenting (see [[How to comment]])
 * become a Massive Wiki contributor to create and edit pages (see below)
 * simply [contact us](Contact us)
 
@@ -40,17 +40,17 @@ Submit your personal profile, along with any tool or practice pages not already 
 * submit via this form (*to be created*)
 * post it to the dedicated [Thinking Tools Map Project](https://chat.collectivesensecommons.org/agora/channels/ogm-thinking-tools-map-project) chat channel on CSC Mattermost
 
-Please follow the template. You can edit a markdown file using any text editor (Notepad, Obsidian, etc.). Any questions? [[Contact us]]
+Please follow the template. You can edit a markdown file using any text editor (Notepad, Text Edit, Obsidian, etc.). Any questions? [[Contact us]]
 
 ### Improve existing tool or practice pages
 
 Would you like to improve an existing tool or practice page? Several options exist:
 
-* [[comment on this site's content]] (available in Phase 1)
+* [[How to comment|comment on this site's content]] (available in Phase 1)
 * go to the page, add ".md" at the end of the web address to view the Markdown, copy and paste the text or use "save as" to get it onto your computer, edit the file on your machine and submit it (see above)
 * become a Massive Wiki contributor (above - recommended)
 
-Note: However you contribute your personal profile,  you'll need to know more about [[How we measure thinking tools]].
+Note: However you contribute your personal profile, you'll need to know more about [[How we measure thinking tools]].
 
 
 ---
