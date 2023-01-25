@@ -34,13 +34,16 @@ In future Phases we aim to support some or all of the following options to contr
 
 ### Send in your personal profile or *new* tool or practice pages
 
-Submit your personal profile, along with any tool or practice pages not already mentioned, by downloading TKTK, edit it locally and:
+Submit your personal profile, along with any tool or practice pages not already mentioned, by:
 
-* email it to us (see [[Contact us]])
-* submit via this form (*to be created*)
-* post it to the dedicated [Thinking Tools Map Project](https://chat.collectivesensecommons.org/agora/channels/ogm-thinking-tools-map-project) chat channel on CSC Mattermost
+* download an existing example file (from [[People]], [[Tools]] or [[Practices]])
+* save it with the name of the person, tool or practice
+* edit the content and submit it via one of the following methods:
+	* email it to us (see [[Contact us]])
+	* submit via this form (*to be created*)
+	* post it to the dedicated [Thinking Tools Map Project](https://chat.collectivesensecommons.org/agora/channels/ogm-thinking-tools-map-project) chat channel on CSC Mattermost
 
-Please follow the template. You can edit a markdown file using any text editor (Notepad, Text Edit, Obsidian, etc.). Any questions? [[Contact us]]
+You can edit a markdown file using any text editor (Notepad, Text Edit, Obsidian, etc.). Any questions? [[Contact us]]
 
 ### Improve existing tool or practice pages
 

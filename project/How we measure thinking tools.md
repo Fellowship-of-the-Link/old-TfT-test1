@@ -14,7 +14,7 @@ In Phase 1 of this project:
 * we are happy to discuss and improve the following dimensions while the code is being developed for version 2 - see [[Project plan]] and [[How to comment]]
 * we've tried to find a balance and keep the number of dimensions to a dozen or less. 
 
-Note: in addition to the dimensions in the following table, the [[personal profile template]] includes a place to put your **Confidence** with the tool. We haven't figured out if and how we'll factor this in, but it looks like a good idea.
+Note: in addition to the dimensions in the following table, Personal profiles includes a place to put your **Confidence** with the tool. We haven't figured out if and how we'll factor this in, but it looks like a good idea.
 
 All scores (including Confidence) are ona 1-10 scale (terrible - brilliant):
 

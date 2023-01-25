@@ -22,4 +22,4 @@ Contributed by [[Mathew Lowry]]
 
 ### Revision Notes
 
-* 2023-01-22: updated to match current [[practice template]]
+* 2023-01-22: updated to match current practice template

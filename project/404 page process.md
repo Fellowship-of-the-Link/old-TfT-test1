@@ -10,7 +10,7 @@ People will include new tools and techniques in their people profiles. When rend
 
 ### Automated template-driven page creation (to investigate)
 
-Whenever a page is uploaded with a link to a non-existent page (for example, "tool5"), that page is created (eg tool5.md) using a template based on the [[practice template]]. It will therefore include:
+Whenever a page is uploaded with a link to a non-existent page (for example, "tool5"), that page is created (eg tool5.md) using a template. It will therefore include:
 
 * title (tool5)
 * description: this simply includes a short text explaining that this page is missing a description and type ("is it a tool? is it a template?)", so volunteers are welcome to contribute one (see [[How to contribute]]).

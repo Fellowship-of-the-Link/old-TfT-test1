@@ -20,4 +20,4 @@ _This section will be generated automatically in the future, and can be left out
 
 ### Revision Notes
 
-* 2023-01-22: updated to match current [[tool template]]
+* 2023-01-22: updated to match current practice template

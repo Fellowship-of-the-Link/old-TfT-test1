@@ -19,4 +19,4 @@ Description contributed by [[Mathew Lowry]]
 
 ### Revision Notes
 
-* 2023-01-22: updated to match current [[tool template]]
+* 2023-01-22: updated to match current practice template
