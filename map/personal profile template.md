@@ -33,7 +33,7 @@ All scores from 1-10. See [[How we measure thinking tools]].
 	* Community: *score*
 	* Cost: *score*
 	* Data sovereignty: *score*
-* * *replace with wikilink to tool*
+* *replace with wikilink to tool*
 	* My current confidence with this tool: *score*
 	* Note-making: *score*
 	* Writing/Publishing: *score*
