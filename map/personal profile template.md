@@ -14,7 +14,7 @@ One of the [[People]].
 
 ## My current tools and practices
 
-*set out the tools and practices you use in a series of bullets. Include wikilinks for all tools and practices. See [an example]([[Mathew%20Lowry]])*
+*set out the tools and practices you use in a series of bullets. Include wikilinks for all tools and practices. See an example: [[Mathew Lowry]]
 
 * 
 

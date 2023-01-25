@@ -112,7 +112,7 @@ One problem I see here is that the Editor must decide to create a major version 
 	* edit the current version
 		* this is version: current
 		* here is the current version: [[Wiki practice meets blogging]]
-		* previous version: [*version 2*]([[The Way of the Wiki meets blogging-1]])
+		* previous version: version 2: [[The Way of the Wiki meets blogging-1]]
 
 Hence the creation of a major version entails the following manual processes:
 
