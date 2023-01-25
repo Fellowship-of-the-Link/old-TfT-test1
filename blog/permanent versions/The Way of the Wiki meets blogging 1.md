@@ -4,14 +4,14 @@
 
 ***Please note: this is a permanent copy of this page. Please see Revision notes, below, for the latest version and history.***
 
-*ML:* we ([[Mathew Lowry]],  [[Peter Kaminski]], [[Bill Anderson]])  had a great chat as we prepared this site for phase 1 on the difference in philosophy between wikis and blogging. We decided to write something together on it using massive.wiki, to explore the issue by writing about it and to test he various collaboration Contribute and Commenting options we are proposing to this site's contributors. Key links:
+*ML:* we ([[Mathew Lowry]],  [[Peter Kaminski]], [[Bill Anderson]])  had a great chat as we prepared this site for phase 1 on the difference in philosophy between wikis and blogging. We decided to write something together on it using Massive Wiki, to explore the issue by writing about it and to test he various collaboration Contribute and Commenting options we are proposing to this site's contributors. Key links:
 
 * this page is being discussed on Mattermost: https://chat.collectivesensecommons.org/agora/pl/cjjtx46exjrh3czajguek3r6ur
 * it can also be commented on and developed according to the ideas set out in [[How to comment]]
 
 *ML:* I am keenly aware, as I write this opening paragraph of this newly created page, that **I'm writing this like a blog post** -  for one thing, I'm labelling each paragraph as 'mine', which is a very blogger* thing to do (* a polite way of saying 'author egocentric'). By the time we show this to more people, however, this content will have been **wikified through collaboration**, and this paragraph may be gone. 
 
-*ML:* But not, perhaps, forgotten - there may be an early version of this page kept somewhere, because our discussion started with version control and permanence in massive.wiki: should previous versions of a wiki page be made available? Which ones? How? Does it matter if visitors to an old version cannot find the latest one? Who does it matter to?
+*ML:* But not, perhaps, forgotten - there may be an early version of this page kept somewhere, because our discussion started with version control and permanence in Massive Wiki: should previous versions of a wiki page be made available? Which ones? How? Does it matter if visitors to an old version cannot find the latest one? Who does it matter to?
 
 ## *ML:* Version control
 
@@ -56,9 +56,9 @@ tbc
 
 tbc
 
-## massive.wiki user requirements
+## Massive Wiki user requirements
 
-*ML:*  In the current version of massive.wiki, Git manages every version of every file, committed by each contributor, ideally with the contributor's comments. While these "Git commit comments" *can* distinguish between new versions submitted to fix a typo and versions which totally transform the page's contents, they are not visible to site visitors, although they can be accessed on github if the repository is public (see [this site's](https://github.com/Fellowship-of-the-Link/TfT-test1/commits/main)). 
+*ML:*  In the current version of Massive Wiki, Git manages every version of every file, committed by each contributor, ideally with the contributor's comments. While these "Git commit comments" *can* distinguish between new versions submitted to fix a typo and versions which totally transform the page's contents, they are not visible to site visitors, although they can be accessed on github if the repository is public (see [this site's](https://github.com/Fellowship-of-the-Link/TfT-test1/commits/main)). 
 
 *(Note that this does not factor in possibilities offered by GitHub such as branches, which provide something intermediate between minor and major versions.)*
 
@@ -66,7 +66,7 @@ tbc
 
 ### Designing a first class function
 
-*ML:* In our chat we discussed a "first class function" for massive.wiki for making a new major version of a file. With a click:
+*ML:* In our chat we discussed a "first class function" for Massive Wiki for making a new major version of a file. With a click:
 * the version number of the file being edited is increased by 1, but remains the "current" version of the file, available at the primary URL (this one is "*domain/blog/The Way of the Wiki meets blogging*") 
 * a copy of the file is created in an archive folder, becoming the permanent copy of the previous version. It's filename includes the current version's filename appended with the version number and the creation date.
 	* Q: does it need a hash as well?

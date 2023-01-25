@@ -1,4 +1,4 @@
-# Axis: Openness
+# Openness
 
 ## Definition
 

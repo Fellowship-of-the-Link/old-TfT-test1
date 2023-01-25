@@ -6,8 +6,8 @@ Collective intelligence tools should of course allow people to comment in a numb
 
 We *currently* support the following options:
 
-* use the **comment form** at the bottom of the page;  
-* or, you can contribute your version of the entire page (below)  
+* use the **comment form** at the bottom of each page;  
+* or, you can contribute your version of the entire page (see below)  
 
 In subsequent phases we may explore other options, particularly if the resulting conversation shows a more substantial collaboration is required - eg:
 
@@ -16,7 +16,7 @@ In subsequent phases we may explore other options, particularly if the resulting
 
 ## Contribute your version of the entire page
 
-Arguably the most powerful, but also probably the most complex method. 
+Arguably the most powerful, but also the most complex method. 
 
 As set out in [[How to contribute]], you can clone this site's GitHub repository to your machine, edit any file you like and submit it back to the repository, where:
 

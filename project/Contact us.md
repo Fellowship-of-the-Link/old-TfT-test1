@@ -5,7 +5,7 @@ To contribute to this project, start with [[How to contribute]].
 If you'd like to join the conversation, there are two chat channels:
 
 - a [thinking tools map Mattermost channel](https://chat.collectivesensecommons.org/agora/channels/ogm-thinking-tools-map-project)
-- a [more general massive.wiki channel](https://chat.collectivesensecommons.org/agora/channels/massive-wiki).
+- a [more general Massive Wiki channel](https://chat.collectivesensecommons.org/agora/channels/massive-wiki).
 
 Or contact us individually if you must:
 

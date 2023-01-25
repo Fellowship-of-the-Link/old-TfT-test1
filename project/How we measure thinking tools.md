@@ -1,6 +1,6 @@
 # How we measure thinking tools
 
-**The dimensions used to characterise thinking tools in the spidergraph on the [home page]([[README]]) need to find a balance between usability and granularity.**
+**The dimensions used to characterise thinking tools in the spidergraph on the [home page](README) need to find a balance between usability and granularity.**
 
 This is unlikely to be an easy balance to find, as:
 
