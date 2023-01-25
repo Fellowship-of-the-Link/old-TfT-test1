@@ -8,7 +8,7 @@ In Phase 1 of the site (see [[Project plan]]), however, we're limiting contribut
 
 * suggest an edit to existing pages via commenting (see [[comment on this site's content]])
 * become a Massive Wiki contributor to create and edit pages (see below)
-* simply [contact us]([[Contact us]])
+* simply [contact us](Contact us)
 
 ## Become a Massive Wiki contributor
 
@@ -19,11 +19,11 @@ This site is a Massive Wiki, which means you can:
 * contribute your edits and entirely new files back to the site
 * get and then accept or reject any updates whenever anyone else contributes knowledge
 
-A full user manual is available on the [Massive Wiki](http://massive.wiki/) site, but in brief, you'll need:
+A more complete user manual is available on the [Massive Wiki](http://Massive Wiki/) site, but in brief, you'll need:
 
-* a GitHub account, so you can fork [[this site's repository]] of files
+* a GitHub account, so you can fork [this site's repository](https://github.com/Fellowship-of-the-Link/TfT-test1) of files
 * Git on your computer, so you can 'pull' new versions of the files from the repository to your computer, and 'push' your edits back to it
-* software to edit the markdown files: we recommend Obsidian, as its "Obsidian Git" plugin supports the previous step seamlessly, but Massive Wiki works with whatever tool you would like to use
+* software to edit the markdown files: we recommend [Obsidian](https://obsidian.md/) (with the Obsidian Git plugin) or [Pulsar-Edit](https://pulsar-edit.dev/), but Massive Wiki works with whatever tool you would like to use
 
 ## Future plans
 

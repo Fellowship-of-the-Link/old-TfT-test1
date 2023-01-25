@@ -27,7 +27,7 @@ See all  [[Tools]].
 
 * [[Mathew Lowry]]
 * [[Peter Kaminski]]
-* [[Another Person Profile]]
+* [[Bill Anderson]]
 * Username
 * Username
 * Username
@@ -38,7 +38,7 @@ See all [[People]].
 
 * [[About this project]]
 * [[How to use this site]]
-* [[How to contribute]] to or [Comment on]([[How to comment]]) this site
+* [[How to contribute]] to or [[How to comment]] on this site
 
 ---
 

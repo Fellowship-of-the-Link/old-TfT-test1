@@ -27,7 +27,7 @@ It's built from three types of file:
 Example:  [[Mathew Lowry]]. Ideally everyone who rates the tools for the spidergraph provides something like this, as each profile ties the other two types of file together with a story about how a real person actually uses them. It includes:
 
 * a series of bullets mentioning different tools and techniques; these will appear automatically in the appropriate tool and technique pages (below)
-* the scores they give each tool they use; these are automatically added to the datastore which powers the spidergraph on the [home page]([[README]]) 
+* the scores they give each tool they use; these are automatically added to the datastore which powers the spidergraph on the [home page](README) 
 
 ### Tools & Practices
 
@@ -51,4 +51,4 @@ And in every file, of course, each mention of a Tool or Practice links to the ze
 * a description of the tool / practice
 * links to explore how different people use it, and the scores they gave it
 
-More: [[Use]]
+More: [[How to use this site]]

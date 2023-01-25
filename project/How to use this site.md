@@ -1,11 +1,11 @@
 # How to use this site
 
-**This site presents the collective knowledge of [NN* People]([[People]]) about the thinking tools they use.** 
+**This site presents the collective knowledge of [NN* People](People) about the thinking tools they use.** 
 
 Here's how to tap that knowledge.
 
 ## Identify your ideal thinking tool shortlist
-Everyone contributing to this map rates the thinking tools they use using the dimensions displayed on the spidergraph on the [Home Page]([[README]]), which also shows their aggregated scores. 
+Everyone contributing to this map rates the thinking tools they use using the dimensions displayed on the spidergraph on the [Home Page](README), which also shows their aggregated scores. 
 
 We're currently working on a form where you can input your own personal preferences and see them mapped onto the spidergraph, but for now simply:
 
@@ -33,7 +33,7 @@ Each practices is described in a Practices page. Like Tool pages, they include a
 
 Enjoy!
 
-( * ) PS In version 1 (see [[Project plan]]) we don't have a working application to automatically calculate the following key metrics:
+( * ) PS In version 1 (see [[Project plan]]) we don't yet have an automated process that calculates the following key metrics:
 
 * NN = total number of Participants who have submitted personal profiles
 * TT = total number of Tool files

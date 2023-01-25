@@ -8,7 +8,7 @@
 	* martyr draft (ML) - done
 	* transferred to airtable draft (all) - done
 	* to [[How we measure thinking tools]] for comments in p1
-* Get ML up to speed on massive.wiki (herculanean team effort)
+* Get ML up to speed on Massive Wiki (herculanean team effort)
 * site mockup (ML): no actual code, but shows how it will look  
 	* first draft site structure 
 	* first draft content types (personal profiles, tools, practices, etc) & ancillary pages
@@ -18,7 +18,7 @@
 * rewrite prototype content according to this plan (ML)
 * create spidergraph mockup p0, add to home page (ML) - done
 * Get Documentation to p1-ready state, including
-	* basic massive.wiki documentation
+	* basic Massive Wiki documentation
 	* [[How to contribute]] - to check
 	* [[How to comment]] - to check
 
