@@ -14,6 +14,8 @@ Contributed by [[Mathew Lowry]]
 
 ## Who uses it, how
 
+_This section will be generated automatically in the future, and can be left out if you've copied this page to use for another tool._
+
 * [[Mathew Lowry]]: *I use  [[inbox curation]] to identify high-priority sources of content: in [[gmail]] I auto-label high-priority [[enewsletter]], and I maintain a [[twitter list]]*
 * [[Another Person Profile]]: *a bullet from his/her "Who uses it, how" section which includes [[inbox curation]]* and also [[Pocket]]
 

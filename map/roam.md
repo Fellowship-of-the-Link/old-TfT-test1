@@ -10,6 +10,8 @@ Description contributed by [[Mathew Lowry]]
 
 ## Who uses it, how
 
+_This section will be generated automatically in the future, and can be left out if you've copied this page to use for another tool._
+
 * [[Mathew Lowry]]: *I put all other notes into [[Roam]], almost always starting with the [[daily note]].*
   **Scores:**
 	* Visualization: 0
