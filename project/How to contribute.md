@@ -34,9 +34,9 @@ In future Phases we aim to support some or all of the following options to contr
 
 ### Send in your personal profile or *new* tool or practice pages
 
-Submit your personal profile, along with any tool or practice pages not already mentioned, by downloading the appropriate template ([[personal profile template]], [[tool template]], [[practice template]]), edit it locally and:
+Submit your personal profile, along with any tool or practice pages not already mentioned, by downloading TKTK, edit it locally and:
 
-* email is to us (see [[Contact us]])
+* email it to us (see [[Contact us]])
 * submit via this form (*to be created*)
 * post it to the dedicated [Thinking Tools Map Project](https://chat.collectivesensecommons.org/agora/channels/ogm-thinking-tools-map-project) chat channel on CSC Mattermost
 
