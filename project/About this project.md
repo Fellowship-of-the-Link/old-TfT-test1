@@ -16,8 +16,6 @@ As explained in [Building collective intelligence from social knowledge graphs](
 
 This particular pilot project is working with [[Massive Wiki]]. Future projects might try other solutions, or expand this one to work with them.
 
-More background: see [[2. Mapping the thinking tool landscape]].
-
 ## How will this map be structured?
 
 It's built from three types of file:
@@ -40,7 +38,7 @@ These are both zettelkasten overviews:
 
 ### Spidergraph executive summary
 
-The 2nd blog post ([[2. Mapping the thinking tool landscape]]) has a visual showing how these all link together and how the scores submitted via Personal Profiles are aggregated into a spidergraph, which provides a sort of "executive summary" entry Point on the home page:
+The figure shows how these all link together and how the scores submitted via Personal Profiles are aggregated into a spidergraph, which provides a sort of "executive summary" entry Point on the home page:
  
 ![](https://cdn-images-1.medium.com/max/1000/1*RFMbqtFqw7xHmotEmNFqEw.png)
 
