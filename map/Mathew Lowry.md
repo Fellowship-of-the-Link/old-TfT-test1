@@ -12,7 +12,7 @@ More, follow, subscribe & contact: <https://myhub.ai/@mathewlowry/about/>
 
 One tool which supports me in reading, note-making, writing and publishing without forcing me to invest major time in becoming a power user and/or taking expensive courses. In an ideal world it would also handle my todos and time.
 
-How close is my current system (below) to this ideal? Not at all.   
+How close is my current system (below) to this ideal? Not at all, which is why I'd like to see [[A Minimum Viable Ecosystem for collective intelligence]] emerge.  
 
 ## My current tools and practices
 
@@ -27,7 +27,7 @@ More: [All the Stuff I Think tagged Content strategy and Productivity](https://m
 ## Thinking Tool Ratings
 
 * [[Roam]] 
-	* My current confidence with this tool: 4
+	* My current confidence with this tool: 3
 	* Note-making: 8
 	* Writing/Publishing: 2
 	* Idea discovery: 7
@@ -43,18 +43,18 @@ More: [All the Stuff I Think tagged Content strategy and Productivity](https://m
 	* Data sovereignty: 2
 		* stored by Roam, exports possible.
 * [[Obsidian]]
-	* My current confidence with this tool: 
-	* Openness:
-	* Note-making: 
-	* Writing/Publishing: 
-	* Idea discovery: 
-	* User-friendliness: 
-	* Power: 
-	* Multiplayer: 
-	* Help: 
-	* Community: 
-	* Cost: 
-	* Data sovereignty: 
+	* My current confidence with this tool: 4
+	* Openness: 8
+	* Note-making: 7
+	* Writing/Publishing: 1
+	* Idea discovery: 5
+	* User-friendliness: 3
+	* Power: 8
+	* Multiplayer: 1
+	* Help: 3
+	* Community: 8
+	* Cost: 9
+	* Data sovereignty: 10
 ---
 
 ## Revision Notes

@@ -83,22 +83,51 @@ One problem I see here is that the Editor must decide to create a major version 
 
 ### Mimicking this manually
 
-*ML:* Note that almost all of the above can be done easily manually, which is what we'll have to do for this file and any other blog posts on this wiki. 
+*ML:* Note that almost all of the above can be done easily manually, which is what we'll have to do for this file - ie:
 
-How is set out in detail in [[Manually creating permanent versions on this wiki]]. In brief, the creation of a major version entails the following manual processes:
+* create v1 (*The Way of the Wiki meets blogging*), with the following version control section in the Revision Notes
+	* this is version: current
+	* here is the current version: [[Wiki practice meets blogging]] *(aware this looks odd, but as this is copied each time a new major version is created it will save a lot of time)*
+	* previous version: n/a
+* when it is time to work on v2
+	* duplicate the file, creating *"The Way of the Wiki meets blogging-1.md"* (that was the original filename), and 
+		* move it into the permanent versions subfolder
+		* add a "snapshot warning" at the top of the page pointing to version control section
+		* edit its version control section (*italic* = manual edits)
+			* this is version: *1*
+			* here is the current version: [[Wiki practice meets blogging]] 
+			* previous version: n/a
+	* edit the current version to link back to v1 in its version control section (*italic* = manual edits)
+		* this is version: current
+		* here is the current version: [[Wiki practice meets blogging]] 
+		* previous version: version 1: [[The Way of the Wiki meets blogging 1]]
+* when it is time to work on v3
+	* duplicate the current file, creating (*Wiki practice meets blogging-2*), and 
+		* move it into the permanent versions subfolder
+		* add a "snapshot warning" at the top of the page pointing to version control section
+		* edit its version control section
+			* this is version: *2*
+			* here is the current version: [[Wiki practice meets blogging]] 
+			* previous version: version 1: [[The Way of the Wiki meets blogging 1]]
+	* edit the current version
+		* this is version: current
+		* here is the current version: [[Wiki practice meets blogging]]
+		* previous version: version 2: [[The Way of the Wiki meets blogging-1]]
+
+Hence the creation of a major version entails the following manual processes:
 
 * creating a copy and moving it into a "permanent versions" subfolder
-* editing two lines in the new permanent version
-* editing one line in the current version
+* editing two lines in the new permanent version: changing "current" to N, and adding the "snapshot warning" 
+* editing one line in the current version: changing the label and link to the previous version to point to the newly created permanent version
+
+As set out above, I'm testing this with versions 1 & 2 before pushing both to the repo and opening the discussion.
 
 
 ---
 
 ## Revision Notes
 
-* (29/01/2023) extracted and generalised [[Manually creating permanent versions on this wiki]] to make this page more readable
 * version control (currently managed manually) 
 	* this is version: current
 	* here is the current version: [[Wiki practice meets blogging]]
-	* previous version:  [[Wiki practice meets blogging 2]]
-
+	* previous version:  [[The Way of the Wiki meets blogging 1]]
