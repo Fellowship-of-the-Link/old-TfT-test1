@@ -1,14 +1,16 @@
 # How to contribute
 
-**There will be several ways to contribute:  Personal profiles, Tool and Practice pages to the map.**
+**There will be several ways to contribute Personal profiles, Tool and Practice pages to the map.**
 
 One of the key ideas underpinning collective intelligence is to not force everyone to contribute their knowledge in the same way, so this pilot project will experiment with different approaches. 
 
 In Phase 1 of the site (see [[Project plan]]), however, we're limiting contributions to:
 
 * suggest an edit to existing pages via commenting (see [[How to comment]])
-* become a Massive Wiki contributor to create and edit pages (see below)
-* simply [contact us](Contact us)
+* [[#Become a Massive Wiki contributor]] to create and edit pages
+* simply [contact us](Contact us).
+
+[[Mathew Lowry]] also welcomes comments to the series of blog posts that starts with [[A Minimum Viable Ecosystem for collective intelligence]].
 
 ## Become a Massive Wiki contributor
 

@@ -3,12 +3,11 @@
 **A personalised, decentralised Social Knowledge Graph for each user multiplies the knowledge available to them via a trusted network of Followers and Friends, and creating collaborative possibilities more akin to wikis than blogging.**
 
 ![[ecosystem-social.png]]
+*Two parts of a [[A Minimum Viable Ecosystem for collective intelligence|larger ecosystem]].*
 
-_This is one of several posts?? exploring how a decentralised ecosystem for collective intelligence could be bootstrapped into existence._
+This is one of several posts exploring how a decentralised ecosystem for collective intelligence could be bootstrapped into existence. As set out in the introduction to the series ([[A Minimum Viable Ecosystem for collective intelligence]]), I’m exploring these questions by re-imagining how MyHub.ai could evolve into an open-source toolkit positioned within a decentralised, open-source and self-sustaining ecosystem for collective intelligence.
 
-As set out in my introductory post (above), I’m exploring these questions by re-imagining how MyHub.ai could evolve into an open-source toolkit positioned within a decentralised, open-source and self-sustaining ecosystem for collective intelligence.
-
-In another post?? I set out the minimum features required for the MyHub content management system: essentially a super-simple Tool4Thought designed to help Editors not just manage their Library of interlinked notes, but also to develop them into articles to publish on their Hub, newsletter, digital garden or other public website.
+In [[Thinking and writing in a decentralised collective intelligence ecosystem]] I set out the minimum features required for the MyHub content management system: essentially a super-simple Tool4Thought designed to help Editors not just manage their Library of interlinked notes, but also to develop them into articles to publish on their Hub, newsletter, digital garden or other public website.
 
 **But what happens when Editors can also form and access Social Knowledge Graphs, integrated into their Tool4Thought?** This post builds on the previous one to explore how social features could allow Editors to:
 
@@ -19,7 +18,7 @@ In another post?? I set out the minimum features required for the MyHub conten
 
 ## Social network: Followers and Friends
 
-The figure at the top of this post is extracted from the figure on my introductory post??. It shows MyHub Editors have two types of social link:
+The figure at the top of this post is extracted from the figure on my [[A Minimum Viable Ecosystem for collective intelligence|introductory post]]. It shows MyHub Editors have two types of social link:
 
 ### Followers
 
@@ -50,12 +49,11 @@ The above relationships expand each Editor’s content universe. In practical te
 Each user’s Social Knowledge Graph is thus their personal Knowledge Graph, connected via a writing-oriented Tool4Thought to the Knowledge Graphs of those whose opinion and judgement they respect. The resulting universe of high-quality content is therefore arranged in concentric circles:
 
 ![](https://miro.medium.com/max/1400/1*W17MEjrEkzTY2rGpb4GBFw.png)
+_Concentric trust circles of collective intelligence, from [[Building collective intelligence from social knowledge graphs|an earlier post]]_
 
-**_Concentric trust circles of collective intelligence, from ?? (AI services are covered here??)_**
+When the ecosystem’s [[How Artificial Intelligence will finance Collective Intelligence|AI services]] help Editors publish and describe this content using Linked Data, the curation efforts of millions of people, whose own credibility depends on the content they curate, will create a new layer of added value onto the wider web, combining the curated web with trust-driven social networks:
 
-When the ecosystem’s AI services?? help Editors publish and describe this content using Linked Data, the curation efforts of millions of people, whose own credibility depends on the content they curate, will create a new layer of added value onto the wider web, combining the curated web with trust-driven social networks:
-
->*“With tools like Notion, Airtable, and Readwise … people are aggregating content … reviving the curated web. But these are mostly solo affairs… fragmented, poorly indexed… Rather than try to organize the world’s information… (we should) **organize the world’s trustworthy information**”* _- [_The Future of Search Is Boutique](https://future.com/the-future-of-search-is-boutique/?mkt_tok=MzgyLUpaQi03OTgAAAGEPjuppI8L9CFq6RP-_zW0-4q9gO5twAjQgJaGvO8w3JN5przTVmD6cB9fPqr-pntXtjB0TQKjq-cAOk-x4i7A2wzo5cf7REpCVeJfqLfE8wmg)
+>*“With tools like Notion, Airtable, and Readwise … people are aggregating content … reviving the curated web. But these are mostly solo affairs… fragmented, poorly indexed… Rather than try to organize the world’s information… (we should) **organize the world’s trustworthy information**”* - [The Future of Search Is Boutique](https://future.com/the-future-of-search-is-boutique/?mkt_tok=MzgyLUpaQi03OTgAAAGEPjuppI8L9CFq6RP-_zW0-4q9gO5twAjQgJaGvO8w3JN5przTVmD6cB9fPqr-pntXtjB0TQKjq-cAOk-x4i7A2wzo5cf7REpCVeJfqLfE8wmg)
 
 ## From sharing to collaboration
 
@@ -63,7 +61,7 @@ When the ecosystem’s AI services?? help Editors publish and describe this co
 
 This section explores a few examples, but as the toolkit will be open source many more will follow. All examples are based on the following scenario: _Editor B discovers in her Inbox a note published by someone they Follow (Editor A)._ 
 
-In addition to integrating it into her own Library??, she can also:
+In addition to integrating it into her own Library (see [[Thinking and writing in a decentralised collective intelligence ecosystem#Welcome to your Library]]), she can also:
 
 ### Reblog it as a fast endorsement
 
@@ -94,10 +92,21 @@ While this will happen simply through the use of via decentralised, open technol
 
 ## Dig deeper
 
-Which brings me to the final post in this series: How Artificial Intelligence will finance collective intelligence??.
+Which brings me to the final post in this series: [[How Artificial Intelligence will finance Collective Intelligence]]. 
 
-**See also:**
+See also:
 
-- The “executive summary” of the series: A Minimum Viable Ecosystem for collective intelligence??
-- The first post in the series: Thinking and writing in a decentralised collective intelligence ecosystem??
-- Our first pilot project: see [[About this project]] or Mapping the Tools4Thought landscape using collective intelligence tools??
+- The “executive summary” of the series: [[A Minimum Viable Ecosystem for collective intelligence]]
+- The first post in the series: [[Thinking and writing in a decentralised collective intelligence ecosystem]]
+
+The site you're reading this on, finally, is the focus of our first pilot project: see [[About this project]] or [the announcement post on Medium](https://mathewlowry.medium.com/mapping-tools4thought-using-collective-intelligence-tools-9b5cd00a6309).
+
+Comments welcome on all of them ([[How to comment]]), along with any contributions to the map ([[How to contribute]]).
+
+  \- [[Mathew Lowry]]
+  
+---
+
+## Revision Notes
+
+* Version 1 finalised on 1/1/2023 and [reposted to Medium](https://mathewlowry.medium.com/social-knowledge-graphs-for-collective-intelligence-75c436889320) as a permanent version (see [[Wiki practice meets blogging]]).

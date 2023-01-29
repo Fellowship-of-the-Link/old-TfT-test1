@@ -18,7 +18,7 @@ In subsequent phases we may explore other options, particularly if the resulting
 
 Arguably the most powerful, but also the most complex method. 
 
-As set out in [[How to contribute]], you can clone this site's GitHub repository to your machine, edit any file you like and submit it back to the repository, where:
+As set out in [[How to contribute#Become a Massive Wiki contributor|Become a Massive Wiki contributor]], you can clone this site's GitHub repository to your machine, edit any file you like and submit it back to the repository, where:
 
 * we can use GitHub's commenting function to discuss your edits line by line in GitHub.
 * or we can simply publish your changes, if they are inserted as comments, so that others can see and comment on them in turn. **Please simply follow the paragraph you're commenting on with a new version, indented and preceded by the date and your name.**

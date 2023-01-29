@@ -1,25 +1,26 @@
 # Building collective intelligence from social knowledge graphs
-![[Pasted image 20221001182714.png]]
 
 **Writing a chapter for a book on Personal Knowledge Graphs made me rethink MyHub.ai, and led to a new collective intelligence pilot project with the founders of Massive Wiki.**
 
-_This is one in a series of posts derived from my chapter or some of the side-avenues I discovered along the way and couldn’t fit in. Browse_ [_all posts_](https://myhub.ai/@mathewlowry/?quality=all&tags=pkgbook&timeframe=anytime&types=think) _(indeed,_ [_all content_](https://myhub.ai/@mathewlowry/?tags=pkgbook)_) related to my book chapter on my Hub._
+![[Pasted image 20221001182714.png]]
+
+This is one in a series of posts derived from my chapter or some of the side-avenues I discovered along the way and couldn’t fit in. Browse [_all posts_](https://myhub.ai/@mathewlowry/?quality=all&tags=pkgbook&timeframe=anytime&types=think) (indeed, [_all content](https://myhub.ai/@mathewlowry/?tags=pkgbook)_) related to my book chapter on my Hub.
 
 I originally planned to use the book editors’ deadline to force myself to flesh out detailed MyHub.ai user requirements, complete with clickable wireframes. But that was before a co-author invited me to join the Fellowship of the Link (FotL).
 
 I kid you not: that’s actually what we call ourselves, probably only half-ironically. We’re simply a bunch of people interested in collective intelligence, but collectively they taught me something I once knew but somehow forgot: that one of the best ways to think things through and discover new ideas is to simply talk with others with the same interests. Blame the pandemic: I’ve spent too long alone with my ideas.
 
-> one of the best ways to think things through and discover new ideas is to simply talk with others
+> ***one of the best ways to think things through and discover new ideas is to simply talk with others***
 
 I completely rewrote my chapter as I realised just how many people were already working on different aspects of collective intelligence (TL:DR; the basic tools are taking shape, but they’re not linked together and the users are absent). My chapter now uses **MyHub.ai as an example of one app in a wider ecosystem, because what _really_ matters is the ecosystem:** owned by a data union composed of its users, with revenue streams funding its further development, and thus boosting global collective intelligence.
 
-# Collective intelligence
+## Collective intelligence
 
 Collective intelligence is commonly understood as a large group of people sharing their knowledge, data and skills to solve common problems. 25 years ago we all thought this would emerge naturally from ever-increasing Web adoption, but our models at the time ignored that collaboration requires more than just information: it requires trust.
 
 Instead, the opposite seems to have happened: we’re effectively stupider as a race than we were when we saved the ozone layer, something we’d probably not manage today despite access to vastly more information.
 
-> we’re effectively stupider than when we saved the ozone layer
+> ***we’re effectively stupider than when we saved the ozone layer***
 
 A lot of people think the rot set in when Google closed its RSS Reader software in 2013. RSS was critical OpenWeb plumbing for underpinning collective intelligence, but although Reader’s closure undoubtedly accelerated the decline, it was a symptom of a deeper problem.
 
@@ -29,7 +30,7 @@ While built on top of open Internet standards, Facebook _et al_ are anything b
 
 Solving this mess and improving collective intelligence is thus a decentralised knowledge management problem. We’ll need new ideas. The grip of those walled gardens, however, is now a stranglehold on innovation.
 
-# Fragmented community, decentralised tools
+## Fragmented community, decentralised tools
 
 **A lot of people are nevertheless working on solutions. Individually.**
 
@@ -42,31 +43,29 @@ And MyHub.ai? I hadn’t actually looked at MyHub.ai through the specific lens o
 
 All solutions have one thing in common: they are **decentralised in nature**, foreseeing a world where:
 
--   users publish their own content in their own way using whatever tools they want
--   knowledge interoperability allows this content, published across the web, to be knitted together to help solve problems.
+- users publish their own content in their own way using whatever tools they want
+- knowledge interoperability allows this content, published across the web, to be knitted together to help solve problems.
 
 The key problem is that everyone, like me, is focused on their own personal vision, whereas if any of us are to succeed we _must_ work together. After all, our tools must talk to each other.
 
-So it’s beautifully ironic: to overcome the fragmentation separating us we need the collective intelligence toolkit we’re trying to build.
+So it’s beautifully ironic: ***to overcome the fragmentation separating us we need the collective intelligence toolkit we’re trying to build.***
 
-> to overcome the fragmentation separating us we need the collective intelligence toolkit we’re trying to build
-
-# Bootstrapping upwards
+## Bootstrapping upwards
 
 One way forward that emerged from our calls is to bootstrap ourselves upwards via a series of pilot experiments where:
 
--   the tools we have today are used to link ideas in a specific domain (and the people behind them) together in a decentralised way
--   in the process demonstrating decentralised collective intelligence
--   we learn from the experience to create a new iteration of slightly better tools as a result, along with a slightly bigger audience,
--   rinse, repeat.
+- the tools we have today are used to link ideas in a specific domain (and the people behind them) together in a decentralised way
+- in the process demonstrating decentralised collective intelligence
+- we learn from the experience to create a new iteration of slightly better tools as a result, along with a slightly bigger audience,
+- rinse, repeat.
 
 I suggested the first experiment should focus on thinking tools, and lo and behold the founders of Massive Wiki agreed. We’re currently working on the launch version, to be introduced in my next blog post. If it succeeds, we hope to tackle Pattern Languages in project 2.
 
 **Hop over to the** [**Massive Wiki Mattermost channel**](https://chat.collectivesensecommons.org/agora/channels/massive-wiki) **if you want to lend a hand with the project.** Otherwise, to get informed when we launch:
 
--   [subscribe to my newsletter](https://myhub.ai/@mathewlowry/about/#contact)
--   connect with me on [Mastodon](http://%40mathew@campaign.openworlds.info/) (see PS), [Twitter](https://twitter.com/mathewlowry) or [here on Medium](https://mathewlowry.medium.com/)
--   browse [everything I #LikeThinkDo tagged “Collective Intelligence”](https://myhub.ai/@mathewlowry/?tags=collective+intelligence) (or grab its [RSS feed](https://myhub.ai/rss/@mathewlowry/?tags=collective+intelligence)).
+- [subscribe to my newsletter](https://myhub.ai/@mathewlowry/about/#contact)
+- connect with me on [Mastodon](http://%40mathew@campaign.openworlds.info/) (see PS), [Twitter](https://twitter.com/mathewlowry) or [here on Medium](https://mathewlowry.medium.com/)
+- browse [everything I #LikeThinkDo tagged “Collective Intelligence”](https://myhub.ai/@mathewlowry/?tags=collective+intelligence) (or grab its [RSS feed](https://myhub.ai/rss/@mathewlowry/?tags=collective+intelligence)).
 
 ## Postscript
 

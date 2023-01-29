@@ -7,12 +7,14 @@
 _tbd_
 
 ## Introduction
-As explained in [Building collective intelligence from social knowledge graphs](https://medium.com/@mathewlowry/building-collective-intelligence-from-social-knowledge-graphs-e3a465852e8b), this is hopefully the first in *"a series of pilot projects where:*
+As explained originally in [[Building collective intelligence from social knowledge graphs#Bootstrapping upwards|Building collective intelligence from social knowledge graphs]], this is hopefully the first in *"a series of pilot projects where:*
 
 - *the tools we have today are used to link ideas in a specific domain (and the people behind them) together in a decentralised way
 - *in the process demonstrating decentralised collective intelligence*
 - *we learn from the experience to create a new iteration of slightly better tools as a result, along with a slightly bigger audience,*
--  *rinse, repeat.*"
+- *rinse, repeat.*"
+
+(That post has been developed since into a series, starting [[A Minimum Viable Ecosystem for collective intelligence|here]]).
 
 This particular pilot project is working with [[Massive Wiki]]. Future projects might try other solutions, or expand this one to work with them.
 
@@ -49,4 +51,7 @@ And in every file, of course, each mention of a Tool or Practice links to the ze
 * a description of the tool / practice
 * links to explore how different people use it, and the scores they gave it
 
-More: [[How to use this site]]
+More: 
+* [[How to use this site]]
+* [[How to contribute]]
+* [[How to comment]]
