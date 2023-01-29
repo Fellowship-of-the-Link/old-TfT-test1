@@ -41,7 +41,7 @@ Personally, I enjoy exploring digital gardens. However, they publish _by design
 
 To stretch the metaphor: truly interesting pieces of content are like living organisms, composed of many molecules, each composed of atoms. Weaving a new one into being means publishing more than its constituent atoms, particularly if we want to network both these private Tools4Thought and public sites together to create shared [[Social knowledge graphs for collective intelligence|Social Knowledge Graphs]]. In an ideal world, therefore, we need systems which help us seamlessly publish both:
 
-> “Here is my current thinking about this, and behind *this* link are the notes, ideas and resources I built it from”.
+> “***Here is my current thinking about this, and behind* this *link are the notes, ideas and resources I built it from***”.
 
 ### Super-simple support to the writing process
 
@@ -49,14 +49,13 @@ To stretch the metaphor: truly interesting pieces of content are like living org
 
 This may be a controversial opinion for those who live and breathe Tools4Thought, but most if not all of them seem designed less for writers and more for productivityporn geeks obsessing more over customising their Tools4Thought than actually using it to get something published.
 
-> *"The newcomer is not only asked to learn a new software, they are asked to change the way they **work and think**."* - [Mapping the Tools4Thought landscape](https://mathewlowry.medium.com/mapping-tools4thought-using-collective-intelligence-tools-9b5cd00a6309)
+> "***The newcomer is not only asked to learn a new software, they are asked to change the way they* work and think**." - [Mapping the Tools4Thought landscape](https://mathewlowry.medium.com/mapping-tools4thought-using-collective-intelligence-tools-9b5cd00a6309)
 
 Tools4Thought quite deliberately claim to mimic how the mind works, with every note linked to many others without hierarchy. As others observe, however, this may be useful for note-taking, but less useful for writing:
 
-> “*everything in your mind is already… a graph… big and complicated, with way too many connections everywhere. There’s no good in replicating that in digital form…”* 
-> - [PKM is bullshit](https://www.otherlife.co/pkm/)
+> “**everything in your mind is already… a graph… big and complicated, with way too many connections everywhere. There’s no good in replicating that in digital form…*”* - [PKM is bullshit](https://www.otherlife.co/pkm/)
 
-At **the end of the day, the only person who can read your knowledge graph is you**. For almost everyone else you need to provide a linear text, not a “hairball” of unstructured notes, if they are to learn from you.
+**At the end of the day, the only person who can read your knowledge graph is you**. For almost everyone else you need to provide a linear text, not a “hairball” of unstructured notes, if they are to learn from you.
 
 But getting from a messy graph of interlinked notes to a linear narrative is _hard_ — it’s commonly called writing, although I also like the [phase change metaphor](https://anagora.org/tools-for-thinking), with atomised notes forming narratives like a gas cloud desublimating into highly structured crystal.
 

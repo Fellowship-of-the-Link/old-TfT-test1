@@ -48,12 +48,12 @@ The above relationships expand each Editor’s content universe. In practical te
 
 Each user’s Social Knowledge Graph is thus their personal Knowledge Graph, connected via a writing-oriented Tool4Thought to the Knowledge Graphs of those whose opinion and judgement they respect. The resulting universe of high-quality content is therefore arranged in concentric circles:
 
-![](https://miro.medium.com/max/1400/1*W17MEjrEkzTY2rGpb4GBFw.png)
+![[concentricCirclesOfCI.png]]
 _Concentric trust circles of collective intelligence, from [[Building collective intelligence from social knowledge graphs|an earlier post]]_
 
 When the ecosystem’s [[How Artificial Intelligence will finance Collective Intelligence|AI services]] help Editors publish and describe this content using Linked Data, the curation efforts of millions of people, whose own credibility depends on the content they curate, will create a new layer of added value onto the wider web, combining the curated web with trust-driven social networks:
 
->*“With tools like Notion, Airtable, and Readwise … people are aggregating content … reviving the curated web. But these are mostly solo affairs… fragmented, poorly indexed… Rather than try to organize the world’s information… (we should) **organize the world’s trustworthy information**”* - [The Future of Search Is Boutique](https://future.com/the-future-of-search-is-boutique/?mkt_tok=MzgyLUpaQi03OTgAAAGEPjuppI8L9CFq6RP-_zW0-4q9gO5twAjQgJaGvO8w3JN5przTVmD6cB9fPqr-pntXtjB0TQKjq-cAOk-x4i7A2wzo5cf7REpCVeJfqLfE8wmg)
+>“***With tools like Notion, Airtable, and Readwise … people are aggregating content … reviving the curated web. But these are mostly solo affairs… fragmented, poorly indexed… Rather than try to organize the world’s information… (we should)* organize the world’s trustworthy information**” - [The Future of Search Is Boutique](https://future.com/the-future-of-search-is-boutique/?mkt_tok=MzgyLUpaQi03OTgAAAGEPjuppI8L9CFq6RP-_zW0-4q9gO5twAjQgJaGvO8w3JN5przTVmD6cB9fPqr-pntXtjB0TQKjq-cAOk-x4i7A2wzo5cf7REpCVeJfqLfE8wmg)
 
 ## From sharing to collaboration
 
@@ -61,7 +61,7 @@ When the ecosystem’s [[How Artificial Intelligence will finance Collective In
 
 This section explores a few examples, but as the toolkit will be open source many more will follow. All examples are based on the following scenario: _Editor B discovers in her Inbox a note published by someone they Follow (Editor A)._ 
 
-In addition to integrating it into her own Library (see [[Thinking and writing in a decentralised collective intelligence ecosystem#Welcome to your Library]]), she can also:
+In addition to integrating it into her own Library (see [[Thinking and writing in a decentralised collective intelligence ecosystem#Welcome to your Library|Welcome to your Library]]), she can also:
 
 ### Reblog it as a fast endorsement
 
@@ -94,9 +94,9 @@ While this will happen simply through the use of via decentralised, open technol
 
 Which brings me to the final post in this series: [[How Artificial Intelligence will finance Collective Intelligence]]. 
 
-See also:
+The rest of the series:
 
-- The “executive summary” of the series: [[A Minimum Viable Ecosystem for collective intelligence]]
+- The “executive summary”: [[A Minimum Viable Ecosystem for collective intelligence]]
 - The first post in the series: [[Thinking and writing in a decentralised collective intelligence ecosystem]]
 
 The site you're reading this on, finally, is the focus of our first pilot project: see [[About this project]] or [the announcement post on Medium](https://mathewlowry.medium.com/mapping-tools4thought-using-collective-intelligence-tools-9b5cd00a6309).

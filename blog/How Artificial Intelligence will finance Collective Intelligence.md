@@ -37,9 +37,7 @@ The sometimes dangerous texts it’s producing are the inevitable result of a sy
 
 I’ve been wanting an **autoclassification** servic, helping Editors organise their notes by proposing tags, for over a decade. I launched MyHub.ai in 2020 when I realised that the autoclassification algorithm could be trained not only by the Editors’ corrections but also by their visitors’ behaviour on their public sites, opening up the possibility of monetising it.
 
-I’ve since added several more AI services to my wishlist, such as **automatic semantic enrichment** (describing content using linked data, not just tags), **autoprompt** (recommending relevant content), **auto summary** and even **Filter Bubble Analysis** and **AI-powered spaced repetition**. All can be trained by Editors, and some by the visitors to their public sites. I have wireframes showing these various services in action, but ChatGPT just made at least half of them irrelevant.
-
-E**ditors will simply want their own personal ChatGPT.**
+I’ve since added several more AI services to my wishlist, such as **automatic semantic enrichment** (describing content using linked data, not just tags), **autoprompt** (recommending relevant content), **auto summary** and even **Filter Bubble Analysis** and **AI-powered spaced repetition**. All can be trained by Editors, and some by the visitors to their public sites. I have wireframes showing these various services in action, but **ChatGPT just made at least half of them irrelevant: Editors will simply want their own personal ChatGPT.**
 
 One of the things I hated as [I played with ChatGPT](https://mathewlowry.medium.com/whos-doomed-according-to-chatgpt-bc2ff3af2580) was the lack of citations in its answers. While this is something that [perplexity.ai](https://twitter.com/perplexity_ai/status/1600551871554338816) and others have found a partial way around, it’s simply impossible to know what ChatGPT’s inventing and what is based on actual online knowledge, and how credible that knowledge is.
 
@@ -49,7 +47,7 @@ But what if you could access an AI with ChatGPT’s language abilities which pro
 
 Your chatbot, initially trained on huge datasets but then applied specifically to your interests, would be working from your notes, learning from your writing style and using content from sources you trust.
 
-![](https://miro.medium.com/max/875/1*H-DOUyz9aseJ0xV1S0e99Q.gif)
+![[chatbot2.gif]]
 _Asking a question instead of performing a search; reading the response; mouseovering citations to highlight cited Notes; zooming in on individual notes; widening the search to Reading Queue and Inbox; and then to Priority Sources and Favoured publishers. (PS functional wireframes are not designs!)_
 
 ## Revenue sources in brief
