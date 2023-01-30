@@ -41,10 +41,10 @@ These are both zettelkasten overviews:
 ### Spidergraph executive summary
 
 The figure shows how these all link together and how the scores submitted via Personal Profiles are aggregated into a spidergraph, which provides a sort of "executive summary" entry Point on the home page:
- 
-![](https://cdn-images-1.medium.com/max/1000/1*RFMbqtFqw7xHmotEmNFqEw.png)
 
-**Personal profiles are key because newcomers need stories as well as scores**. Each profile therefore tells the reader: ***How** do this person combine **Which** Tools and Practices together*? 
+![[tft-map-architecture-v0.png]]
+
+**Personal profiles are key because newcomers need stories as well as scores**. Each personal profile therefore tells the reader: *How** does this person combine **Which** Tools and Practices together*? 
 
 And in every file, of course, each mention of a Tool or Practice links to the zettelkasten overview for that Tool or Practice, where users can discover:
 
@@ -52,6 +52,7 @@ And in every file, of course, each mention of a Tool or Practice links to the ze
 * links to explore how different people use it, and the scores they gave it
 
 More: 
+
 * [[How to use this site]]
 * [[How to contribute]]
 * [[How to comment]]
