@@ -9,7 +9,7 @@ _tbd_
 ## Introduction
 As explained originally in [[Building collective intelligence from social knowledge graphs#Bootstrapping upwards|Building collective intelligence from social knowledge graphs]], this is hopefully the first in *"a series of pilot projects where:*
 
-- *the tools we have today are used to link ideas in a specific domain (and the people behind them) together in a decentralised way
+- *the tools we have today are used to link ideas in a specific domain (and the people behind them) together in a decentralised way*
 - *in the process demonstrating decentralised collective intelligence*
 - *we learn from the experience to create a new iteration of slightly better tools as a result, along with a slightly bigger audience,*
 - *rinse, repeat.*"
