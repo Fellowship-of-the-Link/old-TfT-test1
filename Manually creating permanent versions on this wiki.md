@@ -10,12 +10,14 @@ This guide was extracted from the above post for reasons of readability. It sets
 The key to managing this lies in the "Revision notes" section at the bottom of each page, which should always include a version control section. 
 
 In the **very first version** of any "versioned" page this version control section should contain something like this:
+
 * this is version: current
 * here is the current version: \[\[filename\]\]  
   *(aware that including a link to itself looks odd, but as this is copied each time a new major version is created it will save a lot of time)*
 * previous version: n/a
 
 When it is time to update the current file, duplicate the file, creating \[\[filename-1\]\], and:
+
 * move it into the permanent versions subfolder
 * add a "snapshot warning" at the top of the page pointing to version control section
 * edit its version control section (*italic* = manual edits)
@@ -28,6 +30,7 @@ When it is time to update the current file, duplicate the file, creating \[\[fil
 		* previous version: version 1:  \[\[filename-1\]\]
 
 When it is time to update the current file again, simply repeat:
+
 * duplicate the current file, creating \[\[filename-2\]\], and 
 	* move it into the permanent versions subfolder
 	* add a "snapshot warning" at the top of the page pointing to version control section
