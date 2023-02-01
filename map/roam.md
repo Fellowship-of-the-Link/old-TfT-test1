@@ -13,7 +13,7 @@ Description contributed by [[Mathew Lowry]]
 _This section will be generated automatically in the future, and can be left out if you've copied this page to use for another tool._
 
 * [[Mathew Lowry]] (confidence: 3): *I put all other notes into [[Roam]], almost always starting with the [[daily note]], but am currently migrating to [[Obsidian]].*
-  **Scores:**
+  **Scores (1-10):**
 	* Note-making: 8
 	* Writing/Publishing: 2
 	* Idea discovery: 7
