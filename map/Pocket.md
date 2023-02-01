@@ -12,7 +12,12 @@ Description contributed by [[Mathew Lowry]]
 
 _This section will be generated automatically in the future, and can be left out if you've copied this page to use for another tool._
 
-* [[Mathew Lowry]]: *I use [[GTD]]: I have recurring [[calendar]] items and tasks to [[scan]] priority sources; [[queue]] the best content to read to [[Pocket]]; read, [[annotate]] and [[tag]] the best content into [[myhub]]*
+* [[Mathew Lowry]] (confidence: 3): *I use [[GTD]]: I have recurring [[calendar]] items and tasks to [[scan]] priority sources; [[queue]] the best content to read to [[Pocket]]; read, [[annotate]] and [[tag]] the best content into [[myhub]]*. **Scores**
+	* Note-making: 1
+	* Writing/Publishing: 1
+	* Idea discovery: 3
+	* User-friendliness: 7
+	* Cost: 8
 * [[Another Person Profile]]:  *a bullet from his/her "Who uses it, how" section which includes [[Pocket]]* 
 
 

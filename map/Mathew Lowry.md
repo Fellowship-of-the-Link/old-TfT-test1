@@ -55,6 +55,13 @@ More: [All the Stuff I Think tagged Content strategy and Productivity](https://m
 	* Community: 8
 	* Cost: 9
 	* Data sovereignty: 10
+* [[Pocket]]
+	* My current confidence with this tool: 8
+	* Note-making: 1
+	* Writing/Publishing: 1
+	* Idea discovery: 3
+	* User-friendliness: 7
+	* Cost: 8
 ---
 
 ## Revision Notes
