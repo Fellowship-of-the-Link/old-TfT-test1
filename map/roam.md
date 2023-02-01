@@ -12,11 +12,16 @@ Description contributed by [[Mathew Lowry]]
 
 _This section will be generated automatically in the future, and can be left out if you've copied this page to use for another tool._
 
-* [[Mathew Lowry]]: *I put all other notes into [[Roam]], almost always starting with the [[daily note]].*
+* [[Mathew Lowry]] (confidence: 3): *I put all other notes into [[Roam]], almost always starting with the [[daily note]], but am currently migrating to [[Obsidian]].*
   **Scores:**
-	* Visualization: 0
-	* Outlines/Backlinks: 10
+	* Note-making: 8
+	* Writing/Publishing: 2
+	* Idea discovery: 7
+	* User-friendliness: 7
+	* Power: 5
 	* Community: 2
+	* Cost: 1
+	* Data sovereignty: 2
 * [[Another Person Profile]]:  *a bullet from his/her "Who uses it, how" section which includes [[Roam]]* 
 
 ### Revision Notes
